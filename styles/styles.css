@@ -1,0 +1,292 @@
+/* Styling for body */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4; /* Fallback background color */
+}
+
+/* Styling for header */
+header {
+  background-color: #8B4513; /* Book-like brown color */
+  padding: 10px 0;
+  position: relative; /* Ensure header stays on top */
+  z-index: 100; /* Ensure header is above other content */
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
+
+.navbar li {
+  position: relative;
+  margin-right: 20px;
+}
+
+.navbar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #5F370E; /* Darker brown for hover effect */
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #8B4513;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #5F370E;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropbtn {
+  background-color: #8B4513;
+  border: none;
+  color: white;
+  padding: 14px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.search-bar {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px; /* Space below the search bar */
+}
+
+.search-bar form {
+  display: flex;
+  width: 100%;
+  max-width: 400px;
+}
+
+.search-bar input[type="text"] {
+  padding: 7px;
+  border: none;
+  border-radius: 4px 0 0 4px;
+  flex: 1;
+}
+
+.search-bar button {
+  padding: 7px;
+  background-color: #5F370E;
+  border: none;
+  color: white;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+}
+
+.search-bar button:hover {
+  background-color: #8B4513;
+}
+
+/* Slide */
+
+/* CSS for the slide section */
+.slide {
+  background-image: url('../imags/backround.jpg'); /* Replace 'background.jpg' with your image file path */
+  background-size: cover;
+  background-position: center;
+  height: 90vh; /* Full screen height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white; /* Text color on top of the background image */
+  position: relative; /* Ensure proper positioning */
+  overflow: hidden; /* Hide overflow to contain background image */
+}
+
+.slide-content {
+  max-width: 800px;
+  margin: 0 auto;
+  z-index: 1; /* Ensure content is above background image */
+}
+
+.slide h4 {
+  font-size: 80px;
+  color: #e3e3e3; /* Saddle brown */
+}
+
+.slide p {
+  font-size: 60px;
+  color: #fffefe; /* White text color */
+  margin-top: 10px;
+}
+
+
+/* CSS for the book grid section */
+.book-grid {
+  padding: 20px;
+  background-color: #f1f1f1; /* Adjust the background color as needed */
+  text-align: center;
+  position: relative; /* Ensure proper positioning */
+  z-index: 2; /* Ensure book grid is above the slide background */
+}
+
+.book-grid h4 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.books-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive grid columns */
+  gap: 5px;
+  justify-items: center;
+}
+
+.book-item {
+  text-align: center;
+}
+
+.book-item img {
+  width: 100%;
+  height: 80%;
+  border-radius: 5px; /* Adjust the border radius as needed */
+}
+
+.book-item p {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.book-item a {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit text color */
+}
+
+.book-item a:hover {
+  text-decoration: none; /* Remove underline on hover */
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1em 0;
+  background-color: #f1f1f1;
+  margin-top: 2em;
+  position: relative; /* Ensure footer stays on bottom */
+  z-index: 100; /* Ensure footer is above other content */
+}
+
+/* Media Queries for Responsive Design */
+
+/* Adjust styles for tablets and larger phones */
+@media screen and (max-width: 1024px) {
+  .slide h4 {
+    font-size: 60px;
+  }
+
+  .slide p {
+    font-size: 28px;
+  }
+}
+
+/* Adjust styles for smaller phones */
+@media screen and (max-width: 768px) {
+  .slide h4 {
+    font-size: 40px;
+  }
+
+  .slide p {
+    font-size: 20px;
+  }
+
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .navbar li {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .navbar a {
+    padding: 10px;
+  }
+
+  .search-bar {
+    justify-content: center;
+    margin-bottom: 10px; /* Adjust spacing */
+  }
+
+  .search-bar form {
+    max-width: 300px;
+  }
+
+  .search-bar input[type="text"] {
+    border-radius: 4px;
+  }
+
+  .search-bar button {
+    border-radius: 4px;
+  }
+
+  .book-grid {
+    padding: 10px;
+  }
+
+  .book-grid h4 {
+    font-size: 20px;
+  }
+
+  .books-container {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 10px;
+  }
+
+  .book-item img {
+    border-radius: 3px;
+  }
+
+  .book-item p {
+    font-size: 14px;
+  }
+}
+
+/* Adjust styles for very small screens */
+@media screen and (max-width: 480px) {
+  .slide h4 {
+    font-size: 30px;
+  }
+
+  .slide p {
+    font-size: 16px;
+  }
+}

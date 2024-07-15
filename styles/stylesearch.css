@@ -1,0 +1,88 @@
+/* stylesearch.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../imags/backround.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #333; /* Text color */
+    padding: 20px;
+    margin: 0;
+  }
+  
+  #searchResults {
+    max-width: 1200px; /* Adjust as needed */
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow for the container */
+  }
+  
+  .book-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .book-item {
+    width: calc(20% - 10px); /* Adjust for three items per row, minus margin */
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow for each book item */
+    background-color: #fff;
+  }
+  
+  .book-item img {
+    max-width: 100%; /* Adjust size of the image */
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    display: block;
+  }
+  
+  .book-item p {
+    font-size: 16px;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .book-item a {
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Inherit text color */
+  }
+  
+  
+  .search-bar {
+    justify-content: center;
+    margin-bottom: 10px; /* Adjust spacing */
+  }
+  
+  .search-bar form {
+    max-width: 300px;
+  }
+  
+  .search-bar input[type="text"] {
+    border-radius: 4px;
+  }
+  
+  .search-bar button {
+    border-radius: 4px;
+  }
+  
+  @media (max-width: 768px) {
+    .book-item {
+        width: calc(50% - 20px); /* Adjust for two items per row, minus margin */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .book-item {
+        width: 100%; /* One item per row on smaller screens */
+    }
+  }
+  

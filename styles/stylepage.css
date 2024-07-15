@@ -1,0 +1,71 @@
+/* stylepage.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('imags/backround.jpg'); /* Make sure the image file is in the correct path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #333; /* Text color */
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+.book-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+/* stylepage.css */
+
+.book-item {
+    width: calc(33.33% - 20px);
+    margin: 5px; /* Adjust the margin to control spacing */
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center;
+}
+
+
+.book-item img {
+    max-width: 100%; /* Adjust size of the image */
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    display: block;
+}
+
+.book-item p {
+    font-size: 16px;
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .book-item {
+        width: calc(50% - 20px); /* Adjust for two items per row, minus margin */
+    }
+}
+
+@media (max-width: 480px) {
+    .book-item {
+        width: 100%; /* One item per row on smaller screens */
+    }
+}

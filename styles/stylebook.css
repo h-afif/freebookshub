@@ -1,0 +1,74 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../imags/backround.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #979595;
+}
+
+.book-details {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #aaa8a8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.book-content {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.book-content img {
+    width: 300px; /* Adjust size as needed */
+    height: auto;
+    margin-right: 20px;
+    border-radius: 8px;
+}
+
+.book-info {
+    flex: 1;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+#pdfViewerContainer {
+    height: 600px; /* Fixed height for desktop view */
+    overflow-y: auto; /* Scrollbar for overflow */
+}
+
+#pdfDownload {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Blue color */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+#pdfDownload:hover {
+    background-color: #0056b3; /* Darker shade of blue on hover */
+}
+
+@media (max-width: 768px) {
+    /* Responsive adjustments for mobile */
+    .book-content img {
+        width: 150px;
+        margin-bottom: 10px;
+    }
+
+    #pdfViewerContainer {
+        height: auto; /* Allow natural height for mobile */
+    }
+}
