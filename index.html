@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Books</title>
     <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="styles/styelslider.css">
     <script src="javascript.js"></script>
 </head>
 <body>
@@ -43,13 +44,89 @@
         </script>      
     </nav>
   </header>
+<!-- slider -->
+    <div class="carousel">
+        <!-- list item -->
+        <div class="list">
+            <div class="item">
+                <img src="imags/Atomic_Habits_background.jpg">
+                <div class="content">
+                    <div class="author">James Clear</div>
+                    <div class="title">Atomic Habits</div>
+                    <div class="des">
+                        <!-- lorem 50 -->
+                        No matter your goals, Atomic Habits offers a proven framework for improving--every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results.
+                    </div>
+                    <div class="buttons">
+                        <button><a href="book.html?index=1">SEE MORE</a></button>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="imags/101_Essays_That_Will_Change_The_Way_You_Think_background.jpg">
+                <div class="content">
+                    <div class="author">Brianna Wiest</div>
+                    <div class="title">101 Essays That Will Change The Way You Think</div>
+                    <div class="des">
+                        Over the past few years, Brianna Wiest has gained renown for her deeply moving, philosophical writing. This new compilation of her published work features pieces on why you should pursue purpose over passion, embrace negative thinking, see the wisdom in daily routine, and become aware of the cognitive biases that are creating the way you see your life. Some of these pieces have never been seen; others have been read by millions of people around the world. Regardless, each will leave you thinking: this idea changed my life.
+                    </div>
+                    <div class="buttons">
+                        <button><a href="book.html?index=10">SEE MORE</a></button>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="imags/It_Ends_with_Us_background.jpg">
+                <div class="content">
+                    <div class="author">Alex Saks; Jamey Heath; Christy Hall</div>
+                    <div class="title">It Ends with Us</div>
+                    <div class="des">
+                        Sometimes it is the one who loves you who hurts you the most. Lily hasn’t always had it easy, but that’s never stopped her from working hard for the life she wants. She’s come a long way from the small town in Maine where she grew up — she graduated from college, moved to Boston, and started her own business. So when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily’s life suddenly seems almost too good to be true. Ryle is assertive, stubborn, maybe even a little arrogant. He’s also sensitive, brilliant, and has a total soft spot for Lily. And the way he looks in scrubs certainly doesn’t hurt. Lily can’t get him out of her head. But Ryle’s complete aversion to relationships is disturbing. Even as Lily finds herself becoming the exception to his “no dating” rule, she can’t help but wonder what made him that way in the first place. As questions about her new relationship overwhelm her, so do thoughts of Atlas Corrigan — her first love and a link to the past she left behind. He was her kindred spirit, her protector. When Atlas suddenly reappears, everything Lily has built with Ryle is threatened.
+                    </div>
+                    <div class="buttons">
+                        <button><a href="book.html?index=2">SEE MORE</a></button>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="imags/The_Psychology_of_Money_background.jpg">
+                <div class="content">
+                    <div class="author">Morgan Housel</div>
+                    <div class="title">The Psychology of Money</div>
+                    <div class="des">
+                        Timeless lessons on wealth, greed, and happiness doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people. How to manage money, invest it, and make business decisions are typically considered to involve a lot of mathematical calculations, where data and formulae tell us exactly what to do. But in the real world, people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In the psychology of money, the author shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life’s most important matters.
+                    </div>
+                    <div class="buttons">
+                        <button><a href="book.html?index=3">SEE MORE</a></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- list thumnail -->
+        <div class="thumbnail">
+            <div class="item">
+                <img src="imags/Atomic_Habits.jpg">
+            </div>
+            <div class="item">
+                <img src="imags/101_Essays_That_Will_Change_The_Way_You_Think.jpg">
+            </div>
+            <div class="item">
+                <img src="imags/It_Ends_with_Us.jpg">
+            </div>
+            <div class="item">
+                <img src="imags/The_Psychology_of_Money.jpg">
+            </div>
+        </div>
+        <!-- next prev -->
 
-  <section class="slide">
-    <div class="slide-content">
-        <h4>Free Books For All</h4>
-        <p>Unlock a World of Free Books – Read, Listen, and Download with a Smile!</p>
+        <div class="arrows">
+            <button id="prev"><</button>
+            <button id="next">></button>
+        </div>
+        <!-- time running -->
+        <div class="time"></div>
     </div>
-  </section>
+    <script src="sliderjavascript.js"></script>
 
   <section class="book-grid">
     <h4>Popular Books</h4>
