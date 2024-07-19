@@ -425,5 +425,1405 @@
         "description": "by Harper Lee\nThe unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it.",
         "audiobook": "To_Kill_a_Mockingbird.jpg",
         "pdf": "pdfs/To_Kill_a_Mockingbird.pdf"
+    },
+        {
+        "title": "The Big Book of Fun",
+        "image": "imags/The_Big_Book_of_Fun.jpg",
+        "description": "The Big Book of Fun",
+        "audiobook": "The_Big_Book_of_Fun.mp3",
+        "pdf": "pdfs/The_Big_Book_of_Fun.pdf"
+    },
+    {
+        "title": "Adventure Awaits!",
+        "image": "imags/Adventure_Awaits!.jpg",
+        "description": "Adventure Awaits!",
+        "audiobook": "Adventure_Awaits!.mp3",
+        "pdf": "pdfs/Adventure_Awaits!.pdf"
+    },
+    {
+        "title": "Amazing Mazes",
+        "image": "imags/Amazing_Mazes.jpg",
+        "description": "Amazing Mazes",
+        "audiobook": "Amazing_Mazes.mp3",
+        "pdf": "pdfs/Amazing_Mazes.pdf"
+    },
+    {
+        "title": "Creative Crafts",
+        "image": "imags/Creative_Crafts.jpg",
+        "description": "Creative Crafts",
+        "audiobook": "Creative_Crafts.mp3",
+        "pdf": "pdfs/Creative_Crafts.pdf"
+    },
+    {
+        "title": "Puzzle Paradise",
+        "image": "imags/Puzzle_Paradise.jpg",
+        "description": "Puzzle Paradise",
+        "audiobook": "Puzzle_Paradise.mp3",
+        "pdf": "pdfs/Puzzle_Paradise.pdf"
+    },
+    {
+        "title": "Color and Create",
+        "image": "imags/Color_and_Create.jpg",
+        "description": "Color and Create",
+        "audiobook": "Color_and_Create.mp3",
+        "pdf": "pdfs/Color_and_Create.pdf"
+    },
+    {
+        "title": "Brain Games for Kids",
+        "image": "imags/Brain_Games_for_Kids.jpg",
+        "description": "Brain Games for Kids",
+        "audiobook": "Brain_Games_for_Kids.mp3",
+        "pdf": "pdfs/Brain_Games_for_Kids.pdf"
+    },
+    {
+        "title": "Fun with Numbers",
+        "image": "imags/Fun_with_Numbers.jpg",
+        "description": "Fun with Numbers",
+        "audiobook": "Fun_with_Numbers.mp3",
+        "pdf": "pdfs/Fun_with_Numbers.pdf"
+    },
+    {
+        "title": "Dino Discoveries",
+        "image": "imags/Dino_Discoveries.jpg",
+        "description": "Dino Discoveries",
+        "audiobook": "Dino_Discoveries.mp3",
+        "pdf": "pdfs/Dino_Discoveries.pdf"
+    },
+    {
+        "title": "Under the Sea Adventure",
+        "image": "imags/Under_the_Sea_Adventure.jpg",
+        "description": "Under the Sea Adventure",
+        "audiobook": "Under_the_Sea_Adventure.mp3",
+        "pdf": "pdfs/Under_the_Sea_Adventure.pdf"
+    },
+    {
+        "title": "Magical Unicorns",
+        "image": "imags/Magical_Unicorns.jpg",
+        "description": "Magical Unicorns",
+        "audiobook": "Magical_Unicorns.mp3",
+        "pdf": "pdfs/Magical_Unicorns.pdf"
+    },
+    {
+        "title": "Animal Antics",
+        "image": "imags/Animal_Antics.jpg",
+        "description": "Animal Antics",
+        "audiobook": "Animal_Antics.mp3",
+        "pdf": "pdfs/Animal_Antics.pdf"
+    },
+    {
+        "title": "Space Explorer",
+        "image": "imags/Space_Explorer.jpg",
+        "description": "Space Explorer",
+        "audiobook": "Space_Explorer.mp3",
+        "pdf": "pdfs/Space_Explorer.pdf"
+    },
+    {
+        "title": "Jungle Journey",
+        "image": "imags/Jungle_Journey.jpg",
+        "description": "Jungle Journey",
+        "audiobook": "Jungle_Journey.mp3",
+        "pdf": "pdfs/Jungle_Journey.pdf"
+    },
+    {
+        "title": "Fairy Tale Fun",
+        "image": "imags/Fairy_Tale_Fun.jpg",
+        "description": "Fairy Tale Fun",
+        "audiobook": "Fairy_Tale_Fun.mp3",
+        "pdf": "pdfs/Fairy_Tale_Fun.pdf"
+    },
+    {
+        "title": "Pirate Puzzles",
+        "image": "imags/Pirate_Puzzles.jpg",
+        "description": "Pirate Puzzles",
+        "audiobook": "Pirate_Puzzles.mp3",
+        "pdf": "pdfs/Pirate_Puzzles.pdf"
+    },
+    {
+        "title": "Outer Space Odyssey",
+        "image": "imags/Outer_Space_Odyssey.jpg",
+        "description": "Outer Space Odyssey",
+        "audiobook": "Outer_Space_Odyssey.mp3",
+        "pdf": "pdfs/Outer_Space_Odyssey.pdf"
+    },
+    {
+        "title": "My First Activity Book",
+        "image": "imags/My_First_Activity_Book.jpg",
+        "description": "My First Activity Book",
+        "audiobook": "My_First_Activity_Book.mp3",
+        "pdf": "pdfs/My_First_Activity_Book.pdf"
+    },
+    {
+        "title": "Fun with Letters",
+        "image": "imags/Fun_with_Letters.jpg",
+        "description": "Fun with Letters",
+        "audiobook": "Fun_with_Letters.mp3",
+        "pdf": "pdfs/Fun_with_Letters.pdf"
+    },
+    {
+        "title": "Treasure Hunt",
+        "image": "imags/Treasure_Hunt.jpg",
+        "description": "Treasure Hunt",
+        "audiobook": "Treasure_Hunt.mp3",
+        "pdf": "pdfs/Treasure_Hunt.pdf"
+    },
+    {
+        "title": "Superhero Stories",
+        "image": "imags/Superhero_Stories.jpg",
+        "description": "Superhero Stories",
+        "audiobook": "Superhero_Stories.mp3",
+        "pdf": "pdfs/Superhero_Stories.pdf"
+    },
+    {
+        "title": "Time Traveler",
+        "image": "imags/Time_Traveler.jpg",
+        "description": "Time Traveler",
+        "audiobook": "Time_Traveler.mp3",
+        "pdf": "pdfs/Time_Traveler.pdf"
+    },
+    {
+        "title": "Monster Mayhem",
+        "image": "imags/Monster_Mayhem.jpg",
+        "description": "Monster Mayhem",
+        "audiobook": "Monster_Mayhem.mp3",
+        "pdf": "pdfs/Monster_Mayhem.pdf"
+    },
+    {
+        "title": "Princess Party",
+        "image": "imags/Princess_Party.jpg",
+        "description": "Princess Party",
+        "audiobook": "Princess_Party.mp3",
+        "pdf": "pdfs/Princess_Party.pdf"
+    },
+    {
+        "title": "Robot Riddles",
+        "image": "imags/Robot_Riddles.jpg",
+        "description": "Robot Riddles",
+        "audiobook": "Robot_Riddles.mp3",
+        "pdf": "pdfs/Robot_Riddles.pdf"
+    },
+    {
+        "title": "Silly Science",
+        "image": "imags/Silly_Science.jpg",
+        "description": "Silly Science",
+        "audiobook": "Silly_Science.mp3",
+        "pdf": "pdfs/Silly_Science.pdf"
+    },
+    {
+        "title": "My Busy Book",
+        "image": "imags/My_Busy_Book.jpg",
+        "description": "My Busy Book",
+        "audiobook": "My_Busy_Book.mp3",
+        "pdf": "pdfs/My_Busy_Book.pdf"
+    },
+    {
+        "title": "Enchanted Forest",
+        "image": "imags/Enchanted_Forest.jpg",
+        "description": "Enchanted Forest",
+        "audiobook": "Enchanted_Forest.mp3",
+        "pdf": "pdfs/Enchanted_Forest.pdf"
+    },
+    {
+        "title": "Nature Explorer",
+        "image": "imags/Nature_Explorer.jpg",
+        "description": "Nature Explorer",
+        "audiobook": "Nature_Explorer.mp3",
+        "pdf": "pdfs/Nature_Explorer.pdf"
+    },
+    {
+        "title": "Holiday Fun",
+        "image": "imags/Holiday_Fun.jpg",
+        "description": "Holiday Fun",
+        "audiobook": "Holiday_Fun.mp3",
+        "pdf": "pdfs/Holiday_Fun.pdf"
+    },
+    {
+        "title": "My Big Book of Stickers",
+        "image": "imags/My_Big_Book_of_Stickers.jpg",
+        "description": "My Big Book of Stickers",
+        "audiobook": "My_Big_Book_of_Stickers.mp3",
+        "pdf": "pdfs/My_Big_Book_of_Stickers.pdf"
+    },
+    {
+        "title": "Wild West Adventure",
+        "image": "imags/Wild_West_Adventure.jpg",
+        "description": "Wild West Adventure",
+        "audiobook": "Wild_West_Adventure.mp3",
+        "pdf": "pdfs/Wild_West_Adventure.pdf"
+    },
+    {
+        "title": "Winter Wonderland",
+        "image": "imags/Winter_Wonderland.jpg",
+        "description": "Winter Wonderland",
+        "audiobook": "Winter_Wonderland.mp3",
+        "pdf": "pdfs/Winter_Wonderland.pdf"
+    },
+    {
+        "title": "Ocean Explorer",
+        "image": "imags/Ocean_Explorer.jpg",
+        "description": "Ocean Explorer",
+        "audiobook": "Ocean_Explorer.mp3",
+        "pdf": "pdfs/Ocean_Explorer.pdf"
+    },
+    {
+        "title": "The Big Coloring Book",
+        "image": "imags/The_Big_Coloring_Book.jpg",
+        "description": "The Big Coloring Book",
+        "audiobook": "The_Big_Coloring_Book.mp3",
+        "pdf": "pdfs/The_Big_Coloring_Book.pdf"
+    },
+    {
+        "title": "Farmyard Friends",
+        "image": "imags/Farmyard_Friends.jpg",
+        "description": "Farmyard Friends",
+        "audiobook": "Farmyard_Friends.mp3",
+        "pdf": "pdfs/Farmyard_Friends.pdf"
+    },
+    {
+        "title": "Marvelous Monsters",
+        "image": "imags/Marvelous_Monsters.jpg",
+        "description": "Marvelous Monsters",
+        "audiobook": "Marvelous_Monsters.mp3",
+        "pdf": "pdfs/Marvelous_Monsters.pdf"
+    },
+    {
+        "title": "Busy Bee Book",
+        "image": "imags/Busy_Bee_Book.jpg",
+        "description": "Busy Bee Book",
+        "audiobook": "Busy_Bee_Book.mp3",
+        "pdf": "pdfs/Busy_Bee_Book.pdf"
+    },
+    {
+        "title": "Knights and Dragons",
+        "image": "imags/Knights_and_Dragons.jpg",
+        "description": "Knights and Dragons",
+        "audiobook": "Knights_and_Dragons.mp3",
+        "pdf": "pdfs/Knights_and_Dragons.pdf"
+    },
+    {
+        "title": "Fairytale Forest",
+        "image": "imags/Fairytale_Forest.jpg",
+        "description": "Fairytale Forest",
+        "audiobook": "Fairytale_Forest.mp3",
+        "pdf": "pdfs/Fairytale_Forest.pdf"
+    },
+    {
+        "title": "Space Adventure",
+        "image": "imags/Space_Adventure.jpg",
+        "description": "Space Adventure",
+        "audiobook": "Space_Adventure.mp3",
+        "pdf": "pdfs/Space_Adventure.pdf"
+    },
+    {
+        "title": "Jungle Safari",
+        "image": "imags/Jungle_Safari.jpg",
+        "description": "Jungle Safari",
+        "audiobook": "Jungle_Safari.mp3",
+        "pdf": "pdfs/Jungle_Safari.pdf"
+    },
+    {
+        "title": "Dino Fun",
+        "image": "imags/Dino_Fun.jpg",
+        "description": "Dino Fun",
+        "audiobook": "Dino_Fun.mp3",
+        "pdf": "pdfs/Dino_Fun.pdf"
+    },
+    {
+        "title": "Fun with Shapes",
+        "image": "imags/Fun_with_Shapes.jpg",
+        "description": "Fun with Shapes",
+        "audiobook": "Fun_with_Shapes.mp3",
+        "pdf": "pdfs/Fun_with_Shapes.pdf"
+    },
+    {
+        "title": "Outer Space Adventure",
+        "image": "imags/Outer_Space_Adventure.jpg",
+        "description": "Outer Space Adventure",
+        "audiobook": "Outer_Space_Adventure.mp3",
+        "pdf": "pdfs/Outer_Space_Adventure.pdf"
+    },
+    {
+        "title": "Magical Creatures",
+        "image": "imags/Magical_Creatures.jpg",
+        "description": "Magical Creatures",
+        "audiobook": "Magical_Creatures.mp3",
+        "pdf": "pdfs/Magical_Creatures.pdf"
+    },
+    {
+        "title": "Farm Fun",
+        "image": "imags/Farm_Fun.jpg",
+        "description": "Farm Fun",
+        "audiobook": "Farm_Fun.mp3",
+        "pdf": "pdfs/Farm_Fun.pdf"
+    },
+    {
+        "title": "Robot Adventure",
+        "image": "imags/Robot_Adventure.jpg",
+        "description": "Robot Adventure",
+        "audiobook": "Robot_Adventure.mp3",
+        "pdf": "pdfs/Robot_Adventure.pdf"
+    },
+    {
+        "title": "Holiday Activity Book",
+        "image": "imags/Holiday_Activity_Book.jpg",
+        "description": "Holiday Activity Book",
+        "audiobook": "Holiday_Activity_Book.mp3",
+        "pdf": "pdfs/Holiday_Activity_Book.pdf"
+    },
+    {
+        "title": "Pirate Treasure Hunt",
+        "image": "imags/Pirate_Treasure_Hunt.jpg",
+        "description": "Pirate Treasure Hunt",
+        "audiobook": "Pirate_Treasure_Hunt.mp3",
+        "pdf": "pdfs/Pirate_Treasure_Hunt.pdf"
+    },
+    {
+        "title": "The Big Puzzle Book",
+        "image": "imags/The_Big_Puzzle_Book.jpg",
+        "description": "The Big Puzzle Book",
+        "audiobook": "The_Big_Puzzle_Book.mp3",
+        "pdf": "pdfs/The_Big_Puzzle_Book.pdf"
+    },
+    {
+        "title": "Super Fun Activity Book",
+        "image": "imags/Super_Fun_Activity_Book.jpg",
+        "description": "Super Fun Activity Book",
+        "audiobook": "Super_Fun_Activity_Book.mp3",
+        "pdf": "pdfs/Super_Fun_Activity_Book.pdf"
+    },
+    {
+        "title": "Fairy Fun",
+        "image": "imags/Fairy_Fun.jpg",
+        "description": "Fairy Fun",
+        "audiobook": "Fairy_Fun.mp3",
+        "pdf": "pdfs/Fairy_Fun.pdf"
+    },
+    {
+        "title": "Time Travel Adventure",
+        "image": "imags/Time_Travel_Adventure.jpg",
+        "description": "Time Travel Adventure",
+        "audiobook": "Time_Travel_Adventure.mp3",
+        "pdf": "pdfs/Time_Travel_Adventure.pdf"
+    },
+    {
+        "title": "Animal Friends",
+        "image": "imags/Animal_Friends.jpg",
+        "description": "Animal Friends",
+        "audiobook": "Animal_Friends.mp3",
+        "pdf": "pdfs/Animal_Friends.pdf"
+    },
+    {
+        "title": "Busy Kids Book",
+        "image": "imags/Busy_Kids_Book.jpg",
+        "description": "Busy Kids Book",
+        "audiobook": "Busy_Kids_Book.mp3",
+        "pdf": "pdfs/Busy_Kids_Book.pdf"
+    },
+    {
+        "title": "Winter Fun",
+        "image": "imags/Winter_Fun.jpg",
+        "description": "Winter Fun",
+        "audiobook": "Winter_Fun.mp3",
+        "pdf": "pdfs/Winter_Fun.pdf"
+    },
+    {
+        "title": "Ocean Wonders",
+        "image": "imags/Ocean_Wonders.jpg",
+        "description": "Ocean Wonders",
+        "audiobook": "Ocean_Wonders.mp3",
+        "pdf": "pdfs/Ocean_Wonders.pdf"
+    },
+    {
+        "title": "Space Journey",
+        "image": "imags/Space_Journey.jpg",
+        "description": "Space Journey",
+        "audiobook": "Space_Journey.mp3",
+        "pdf": "pdfs/Space_Journey.pdf"
+    },
+    {
+        "title": "Jungle Book",
+        "image": "imags/Jungle_Book.jpg",
+        "description": "Jungle Book",
+        "audiobook": "Jungle_Book.mp3",
+        "pdf": "pdfs/Jungle_Book.pdf"
+    },
+    {
+        "title": "Fairy Tale Adventure",
+        "image": "imags/Fairy_Tale_Adventure.jpg",
+        "description": "Fairy Tale Adventure",
+        "audiobook": "Fairy_Tale_Adventure.mp3",
+        "pdf": "pdfs/Fairy_Tale_Adventure.pdf"
+    },
+    {
+        "title": "Pirate Party",
+        "image": "imags/Pirate_Party.jpg",
+        "description": "Pirate Party",
+        "audiobook": "Pirate_Party.mp3",
+        "pdf": "pdfs/Pirate_Party.pdf"
+    },
+    {
+        "title": "Superheroes Unite!",
+        "image": "imags/Superheroes_Unite!.jpg",
+        "description": "Superheroes Unite!",
+        "audiobook": "Superheroes_Unite!.mp3",
+        "pdf": "pdfs/Superheroes_Unite!.pdf"
+    },
+    {
+        "title": "Science Fun",
+        "image": "imags/Science_Fun.jpg",
+        "description": "Science Fun",
+        "audiobook": "Science_Fun.mp3",
+        "pdf": "pdfs/Science_Fun.pdf"
+    },
+    {
+        "title": "Busy Book for Kids",
+        "image": "imags/Busy_Book_for_Kids.jpg",
+        "description": "Busy Book for Kids",
+        "audiobook": "Busy_Book_for_Kids.mp3",
+        "pdf": "pdfs/Busy_Book_for_Kids.pdf"
+    },
+    {
+        "title": "Forest Friends",
+        "image": "imags/Forest_Friends.jpg",
+        "description": "Forest Friends",
+        "audiobook": "Forest_Friends.mp3",
+        "pdf": "pdfs/Forest_Friends.pdf"
+    },
+    {
+        "title": "Outer Space Fun",
+        "image": "imags/Outer_Space_Fun.jpg",
+        "description": "Outer Space Fun",
+        "audiobook": "Outer_Space_Fun.mp3",
+        "pdf": "pdfs/Outer_Space_Fun.pdf"
+    },
+    {
+        "title": "Jungle Fun",
+        "image": "imags/Jungle_Fun.jpg",
+        "description": "Jungle Fun",
+        "audiobook": "Jungle_Fun.mp3",
+        "pdf": "pdfs/Jungle_Fun.pdf"
+    },
+    {
+        "title": "Dino Adventure",
+        "image": "imags/Dino_Adventure.jpg",
+        "description": "Dino Adventure",
+        "audiobook": "Dino_Adventure.mp3",
+        "pdf": "pdfs/Dino_Adventure.pdf"
+    },
+    {
+        "title": "Shape Fun",
+        "image": "imags/Shape_Fun.jpg",
+        "description": "Shape Fun",
+        "audiobook": "Shape_Fun.mp3",
+        "pdf": "pdfs/Shape_Fun.pdf"
+    },
+    {
+        "title": "Space Odyssey",
+        "image": "imags/Space_Odyssey.jpg",
+        "description": "Space Odyssey",
+        "audiobook": "Space_Odyssey.mp3",
+        "pdf": "pdfs/Space_Odyssey.pdf"
+    },
+    {
+        "title": "Magical World",
+        "image": "imags/Magical_World.jpg",
+        "description": "Magical World",
+        "audiobook": "Magical_World.mp3",
+        "pdf": "pdfs/Magical_World.pdf"
+    },
+    {
+        "title": "Farmyard Fun",
+        "image": "imags/Farmyard_Fun.jpg",
+        "description": "Farmyard Fun",
+        "audiobook": "Farmyard_Fun.mp3",
+        "pdf": "pdfs/Farmyard_Fun.pdf"
+    },
+    {
+        "title": "Robot World",
+        "image": "imags/Robot_World.jpg",
+        "description": "Robot World",
+        "audiobook": "Robot_World.mp3",
+        "pdf": "pdfs/Robot_World.pdf"
+    },
+    {
+        "title": "Holiday Fun Book",
+        "image": "imags/Holiday_Fun_Book.jpg",
+        "description": "Holiday Fun Book",
+        "audiobook": "Holiday_Fun_Book.mp3",
+        "pdf": "pdfs/Holiday_Fun_Book.pdf"
+    },
+    {
+        "title": "Pirate Adventure",
+        "image": "imags/Pirate_Adventure.jpg",
+        "description": "Pirate Adventure",
+        "audiobook": "Pirate_Adventure.mp3",
+        "pdf": "pdfs/Pirate_Adventure.pdf"
+    },
+    {
+        "title": "Puzzle Fun",
+        "image": "imags/Puzzle_Fun.jpg",
+        "description": "Puzzle Fun",
+        "audiobook": "Puzzle_Fun.mp3",
+        "pdf": "pdfs/Puzzle_Fun.pdf"
+    },
+    {
+        "title": "Super Activity Book",
+        "image": "imags/Super_Activity_Book.jpg",
+        "description": "Super Activity Book",
+        "audiobook": "Super_Activity_Book.mp3",
+        "pdf": "pdfs/Super_Activity_Book.pdf"
+    },
+    {
+        "title": "Fairy Adventure",
+        "image": "imags/Fairy_Adventure.jpg",
+        "description": "Fairy Adventure",
+        "audiobook": "Fairy_Adventure.mp3",
+        "pdf": "pdfs/Fairy_Adventure.pdf"
+    },
+    {
+        "title": "Animal Adventure",
+        "image": "imags/Animal_Adventure.jpg",
+        "description": "Animal Adventure",
+        "audiobook": "Animal_Adventure.mp3",
+        "pdf": "pdfs/Animal_Adventure.pdf"
+    },
+    {
+        "title": "Busy Book for Kids",
+        "image": "imags/Busy_Book_for_Kids.jpg",
+        "description": "Busy Book for Kids",
+        "audiobook": "Busy_Book_for_Kids.mp3",
+        "pdf": "pdfs/Busy_Book_for_Kids.pdf"
+    },
+    {
+        "title": "Winter Wonderland Book",
+        "image": "imags/Winter_Wonderland_Book.jpg",
+        "description": "Winter Wonderland Book",
+        "audiobook": "Winter_Wonderland_Book.mp3",
+        "pdf": "pdfs/Winter_Wonderland_Book.pdf"
+    },
+    {
+        "title": "Ocean Adventure",
+        "image": "imags/Ocean_Adventure.jpg",
+        "description": "Ocean Adventure",
+        "audiobook": "Ocean_Adventure.mp3",
+        "pdf": "pdfs/Ocean_Adventure.pdf"
+    },
+    {
+        "title": "Space Fun",
+        "image": "imags/Space_Fun.jpg",
+        "description": "Space Fun",
+        "audiobook": "Space_Fun.mp3",
+        "pdf": "pdfs/Space_Fun.pdf"
+    },
+    {
+        "title": "Jungle Adventure",
+        "image": "imags/Jungle_Adventure.jpg",
+        "description": "Jungle Adventure",
+        "audiobook": "Jungle_Adventure.mp3",
+        "pdf": "pdfs/Jungle_Adventure.pdf"
+    },
+    {
+        "title": "Fairy Tale Fun Book",
+        "image": "imags/Fairy_Tale_Fun_Book.jpg",
+        "description": "Fairy Tale Fun Book",
+        "audiobook": "Fairy_Tale_Fun_Book.mp3",
+        "pdf": "pdfs/Fairy_Tale_Fun_Book.pdf"
+    },
+    {
+        "title": "Pirate Fun",
+        "image": "imags/Pirate_Fun.jpg",
+        "description": "Pirate Fun",
+        "audiobook": "Pirate_Fun.mp3",
+        "pdf": "pdfs/Pirate_Fun.pdf"
+    },
+    {
+        "title": "Superhero Fun",
+        "image": "imags/Superhero_Fun.jpg",
+        "description": "Superhero Fun",
+        "audiobook": "Superhero_Fun.mp3",
+        "pdf": "pdfs/Superhero_Fun.pdf"
+    },
+    {
+        "title": "Science Adventure",
+        "image": "imags/Science_Adventure.jpg",
+        "description": "Science Adventure",
+        "audiobook": "Science_Adventure.mp3",
+        "pdf": "pdfs/Science_Adventure.pdf"
+    },
+    {
+        "title": "Busy Book of Fun",
+        "image": "imags/Busy_Book_of_Fun.jpg",
+        "description": "Busy Book of Fun",
+        "audiobook": "Busy_Book_of_Fun.mp3",
+        "pdf": "pdfs/Busy_Book_of_Fun.pdf"
+    },
+    {
+        "title": "Forest Adventure",
+        "image": "imags/Forest_Adventure.jpg",
+        "description": "Forest Adventure",
+        "audiobook": "Forest_Adventure.mp3",
+        "pdf": "pdfs/Forest_Adventure.pdf"
+    },
+    {
+        "title": "Outer Space Book",
+        "image": "imags/Outer_Space_Book.jpg",
+        "description": "Outer Space Book",
+        "audiobook": "Outer_Space_Book.mp3",
+        "pdf": "pdfs/Outer_Space_Book.pdf"
+    },
+    {
+        "title": "Jungle Safari Fun",
+        "image": "imags/Jungle_Safari_Fun.jpg",
+        "description": "Jungle Safari Fun",
+        "audiobook": "Jungle_Safari_Fun.mp3",
+        "pdf": "pdfs/Jungle_Safari_Fun.pdf"
+    },
+    {
+        "title": "Dino Discoveries Book",
+        "image": "imags/Dino_Discoveries_Book.jpg",
+        "description": "Dino Discoveries Book",
+        "audiobook": "Dino_Discoveries_Book.mp3",
+        "pdf": "pdfs/Dino_Discoveries_Book.pdf"
+    },
+    {
+        "title": "Shape Adventure",
+        "image": "imags/Shape_Adventure.jpg",
+        "description": "Shape Adventure",
+        "audiobook": "Shape_Adventure.mp3",
+        "pdf": "pdfs/Shape_Adventure.pdf"
+    },
+    {
+        "title": "Space Journey Book",
+        "image": "imags/Space_Journey_Book.jpg",
+        "description": "Space Journey Book",
+        "audiobook": "Space_Journey_Book.mp3",
+        "pdf": "pdfs/Space_Journey_Book.pdf"
+    },
+    {
+        "title": "Magical Adventure",
+        "image": "imags/Magical_Adventure.jpg",
+        "description": "Magical Adventure",
+        "audiobook": "Magical_Adventure.mp3",
+        "pdf": "pdfs/Magical_Adventure.pdf"
+    },
+    {
+        "title": "Farm Adventure",
+        "image": "imags/Farm_Adventure.jpg",
+        "description": "Farm Adventure",
+        "audiobook": "Farm_Adventure.mp3",
+        "pdf": "pdfs/Farm_Adventure.pdf"
+    },
+    {
+        "title": "Robot Fun",
+        "image": "imags/Robot_Fun.jpg",
+        "description": "Robot Fun",
+        "audiobook": "Robot_Fun.mp3",
+        "pdf": "pdfs/Robot_Fun.pdf"
+    },
+    {
+        "title": "Holiday Fun Time",
+        "image": "imags/Holiday_Fun_Time.jpg",
+        "description": "Holiday Fun Time",
+        "audiobook": "Holiday_Fun_Time.mp3",
+        "pdf": "pdfs/Holiday_Fun_Time.pdf"
+    },
+    {
+        "title": "Don't Let the Pigeon Drive the Bus! Activity Book",
+        "image": "imags/Don't_Let_the_Pigeon_Drive_the_Bus!_Activity_Book.jpg",
+        "description": "Don't Let the Pigeon Drive the Bus! Activity Book",
+        "audiobook": "Don't_Let_the_Pigeon_Drive_the_Bus!_Activity_Book.mp3",
+        "pdf": "pdfs/Don't_Let_the_Pigeon_Drive_the_Bus!_Activity_Book.pdf"
+    },
+    {
+        "title": "Where's Spot? Activity Book",
+        "image": "imags/Where's_Spot?_Activity_Book.jpg",
+        "description": "Where's Spot? Activity Book",
+        "audiobook": "Where's_Spot?_Activity_Book.mp3",
+        "pdf": "pdfs/Where's_Spot?_Activity_Book.pdf"
+    },
+    {
+        "title": "Paint by Sticker Kids: Rainbows Everywhere!",
+        "image": "imags/Paint_by_Sticker_Kids:_Rainbows_Everywhere!.jpg",
+        "description": "Paint by Sticker Kids: Rainbows Everywhere!",
+        "audiobook": "Paint_by_Sticker_Kids:_Rainbows_Everywhere!.mp3",
+        "pdf": "pdfs/Paint_by_Sticker_Kids:_Rainbows_Everywhere!.pdf"
+    },
+    {
+        "title": "123 Count with Me (Trace-And-Flip Fun!)",
+        "image": "imags/123_Count_with_Me_(Trace-And-Flip_Fun!).jpg",
+        "description": "123 Count with Me (Trace-And-Flip Fun!)",
+        "audiobook": "123_Count_with_Me_(Trace-And-Flip_Fun!).mp3",
+        "pdf": "pdfs/123_Count_with_Me_(Trace-And-Flip_Fun!).pdf"
+    },
+    {
+        "title": "The Hardest Hidden Pictures Book Ever",
+        "image": "imags/The_Hardest_Hidden_Pictures_Book_Ever.jpg",
+        "description": "The Hardest Hidden Pictures Book Ever",
+        "audiobook": "The_Hardest_Hidden_Pictures_Book_Ever.mp3",
+        "pdf": "pdfs/The_Hardest_Hidden_Pictures_Book_Ever.pdf"
+    },
+    {
+        "title": "Best Hidden Pictures Puzzles EVER",
+        "image": "imags/Best_Hidden_Pictures_Puzzles_EVER.jpg",
+        "description": "Best Hidden Pictures Puzzles EVER",
+        "audiobook": "Best_Hidden_Pictures_Puzzles_EVER.mp3",
+        "pdf": "pdfs/Best_Hidden_Pictures_Puzzles_EVER.pdf"
+    },
+    {
+        "title": "Bluey and Bingo's Fancy Restaurant Cookbook",
+        "image": "imags/Bluey_and_Bingo's_Fancy_Restaurant_Cookbook.jpg",
+        "description": "Bluey and Bingo's Fancy Restaurant Cookbook",
+        "audiobook": "Bluey_and_Bingo's_Fancy_Restaurant_Cookbook.mp3",
+        "pdf": "pdfs/Bluey_and_Bingo's_Fancy_Restaurant_Cookbook.pdf"
+    },
+    {
+        "title": "Jumbo Book of Hidden Pictures",
+        "image": "imags/Jumbo_Book_of_Hidden_Pictures.jpg",
+        "description": "Jumbo Book of Hidden Pictures",
+        "audiobook": "Jumbo_Book_of_Hidden_Pictures.mp3",
+        "pdf": "pdfs/Jumbo_Book_of_Hidden_Pictures.pdf"
+    },
+    {
+        "title": "First Grade Big Fun Workbook",
+        "image": "imags/First_Grade_Big_Fun_Workbook.jpg",
+        "description": "First Grade Big Fun Workbook",
+        "audiobook": "First_Grade_Big_Fun_Workbook.mp3",
+        "pdf": "pdfs/First_Grade_Big_Fun_Workbook.pdf"
+    },
+    {
+        "title": "The Ultimate Book of Jokes & Riddles",
+        "image": "imags/The_Ultimate_Book_of_Jokes_&_Riddles.jpg",
+        "description": "The Ultimate Book of Jokes & Riddles",
+        "audiobook": "The_Ultimate_Book_of_Jokes_&_Riddles.mp3",
+        "pdf": "pdfs/The_Ultimate_Book_of_Jokes_&_Riddles.pdf"
+    },
+    {
+        "title": "The Big Book of Why",
+        "image": "imags/The_Big_Book_of_Why.jpg",
+        "description": "The Big Book of Why",
+        "audiobook": "The_Big_Book_of_Why.mp3",
+        "pdf": "pdfs/The_Big_Book_of_Why.pdf"
+    },
+    {
+        "title": "The Big Book of Bugs",
+        "image": "imags/The_Big_Book_of_Bugs.jpg",
+        "description": "The Big Book of Bugs",
+        "audiobook": "The_Big_Book_of_Bugs.mp3",
+        "pdf": "pdfs/The_Big_Book_of_Bugs.pdf"
+    },
+    {
+        "title": "The Big Book of Space",
+        "image": "imags/The_Big_Book_of_Space.jpg",
+        "description": "The Big Book of Space",
+        "audiobook": "The_Big_Book_of_Space.mp3",
+        "pdf": "pdfs/The_Big_Book_of_Space.pdf"
+    },
+    {
+        "title": "The Paper Bag Princess Activity Book",
+        "image": "imags/The_Paper_Bag_Princess_Activity_Book.jpg",
+        "description": "The Paper Bag Princess Activity Book",
+        "audiobook": "The_Paper_Bag_Princess_Activity_Book.mp3",
+        "pdf": "pdfs/The_Paper_Bag_Princess_Activity_Book.pdf"
+    },
+    {
+        "title": "The Complete Book of Easter Crafts & Activities",
+        "image": "imags/The_Complete_Book_of_Easter_Crafts_&_Activities.jpg",
+        "description": "The Complete Book of Easter Crafts & Activities",
+        "audiobook": "The_Complete_Book_of_Easter_Crafts_&_Activities.mp3",
+        "pdf": "pdfs/The_Complete_Book_of_Easter_Crafts_&_Activities.pdf"
+    },
+    {
+        "title": "The Complete Book of Christmas Crafts & Activities",
+        "image": "imags/The_Complete_Book_of_Christmas_Crafts_&_Activities.jpg",
+        "description": "The Complete Book of Christmas Crafts & Activities",
+        "audiobook": "The_Complete_Book_of_Christmas_Crafts_&_Activities.mp3",
+        "pdf": "pdfs/The_Complete_Book_of_Christmas_Crafts_&_Activities.pdf"
+    },
+    {
+        "title": "The Amazing World of Mazes",
+        "image": "imags/The_Amazing_World_of_Mazes.jpg",
+        "description": "The Amazing World of Mazes",
+        "audiobook": "The_Amazing_World_of_Mazes.mp3",
+        "pdf": "pdfs/The_Amazing_World_of_Mazes.pdf"
+    },
+    {
+        "title": "The Super Silly Sticker Book",
+        "image": "imags/The_Super_Silly_Sticker_Book.jpg",
+        "description": "The Super Silly Sticker Book",
+        "audiobook": "The_Super_Silly_Sticker_Book.mp3",
+        "pdf": "pdfs/The_Super_Silly_Sticker_Book.pdf"
+    },
+    {
+        "title": "The Pop-Up Book of Numbers",
+        "image": "imags/The_Pop-Up_Book_of_Numbers.jpg",
+        "description": "The Pop-Up Book of Numbers",
+        "audiobook": "The_Pop-Up_Book_of_Numbers.mp3",
+        "pdf": "pdfs/The_Pop-Up_Book_of_Numbers.pdf"
+    },
+    {
+        "title": "The Pop-Up Book of Animals",
+        "image": "imags/The_Pop-Up_Book_of_Animals.jpg",
+        "description": "The Pop-Up Book of Animals",
+        "audiobook": "The_Pop-Up_Book_of_Animals.mp3",
+        "pdf": "pdfs/The_Pop-Up_Book_of_Animals.pdf"
+    },
+    {
+        "title": "The Big Book of Drawing & Doodling",
+        "image": "imags/The_Big_Book_of_Drawing_&_Doodling.jpg",
+        "description": "The Big Book of Drawing & Doodling",
+        "audiobook": "The_Big_Book_of_Drawing_&_Doodling.mp3",
+        "pdf": "pdfs/The_Big_Book_of_Drawing_&_Doodling.pdf"
+    },
+    {
+        "title": "The Big Book of Activity Books",
+        "image": "imags/The_Big_Book_of_Activity_Books.jpg",
+        "description": "The Big Book of Activity Books",
+        "audiobook": "The_Big_Book_of_Activity_Books.mp3",
+        "pdf": "pdfs/The_Big_Book_of_Activity_Books.pdf"
+    },
+    {
+        "title": "The Big Activity Book for Preschoolers",
+        "image": "imags/The_Big_Activity_Book_for_Preschoolers.jpg",
+        "description": "The Big Activity Book for Preschoolers",
+        "audiobook": "The_Big_Activity_Book_for_Preschoolers.mp3",
+        "pdf": "pdfs/The_Big_Activity_Book_for_Preschoolers.pdf"
+    },
+    {
+        "title": "The Big Activity Book for Kindergarteners",
+        "image": "imags/The_Big_Activity_Book_for_Kindergarteners.jpg",
+        "description": "The Big Activity Book for Kindergarteners",
+        "audiobook": "The_Big_Activity_Book_for_Kindergarteners.mp3",
+        "pdf": "pdfs/The_Big_Activity_Book_for_Kindergarteners.pdf"
+    },
+    {
+        "title": "The Big Activity Book for First Graders",
+        "image": "imags/The_Big_Activity_Book_for_First_Graders.jpg",
+        "description": "The Big Activity Book for First Graders",
+        "audiobook": "The_Big_Activity_Book_for_First_Graders.mp3",
+        "pdf": "pdfs/The_Big_Activity_Book_for_First_Graders.pdf"
+    },
+    {
+        "title": "The Big Activity Book for Second Graders",
+        "image": "imags/The_Big_Activity_Book_for_Second_Graders.jpg",
+        "description": "The Big Activity Book for Second Graders",
+        "audiobook": "The_Big_Activity_Book_for_Second_Graders.mp3",
+        "pdf": "pdfs/The_Big_Activity_Book_for_Second_Graders.pdf"
+    },
+    {
+        "title": "The Big Activity Book for Third Graders",
+        "image": "imags/The_Big_Activity_Book_for_Third_Graders.jpg",
+        "description": "The Big Activity Book for Third Graders",
+        "audiobook": "The_Big_Activity_Book_for_Third_Graders.mp3",
+        "pdf": "pdfs/The_Big_Activity_Book_for_Third_Graders.pdf"
+    },
+    {
+        "title": "The Big Activity Book for Fourth Graders",
+        "image": "imags/The_Big_Activity_Book_for_Fourth_Graders.jpg",
+        "description": "The Big Activity Book for Fourth Graders",
+        "audiobook": "The_Big_Activity_Book_for_Fourth_Graders.mp3",
+        "pdf": "pdfs/The_Big_Activity_Book_for_Fourth_Graders.pdf"
+    },
+    {
+        "title": "The Big Activity Book for Fifth Graders",
+        "image": "imags/The_Big_Activity_Book_for_Fifth_Graders.jpg",
+        "description": "The Big Activity Book for Fifth Graders",
+        "audiobook": "The_Big_Activity_Book_for_Fifth_Graders.mp3",
+        "pdf": "pdfs/The_Big_Activity_Book_for_Fifth_Graders.pdf"
+    },
+    {
+        "title": "The Big Activity Book for Sixth Graders",
+        "image": "imags/The_Big_Activity_Book_for_Sixth_Graders.jpg",
+        "description": "The Big Activity Book for Sixth Graders",
+        "audiobook": "The_Big_Activity_Book_for_Sixth_Graders.mp3",
+        "pdf": "pdfs/The_Big_Activity_Book_for_Sixth_Graders.pdf"
+    },
+    {
+        "title": "My First Big Book of Activities",
+        "image": "imags/My_First_Big_Book_of_Activities.jpg",
+        "description": "My First Big Book of Activities",
+        "audiobook": "My_First_Big_Book_of_Activities.mp3",
+        "pdf": "pdfs/My_First_Big_Book_of_Activities.pdf"
+    },
+    {
+        "title": "Me: A Compendium: A Fill-in Journal for Kids",
+        "image": "imags/Me:_A_Compendium:_A_Fill-in_Journal_for_Kids.jpg",
+        "description": "Me: A Compendium: A Fill-in Journal for Kids",
+        "audiobook": "Me:_A_Compendium:_A_Fill-in_Journal_for_Kids.mp3",
+        "pdf": "pdfs/Me:_A_Compendium:_A_Fill-in_Journal_for_Kids.pdf"
+    },
+    {
+        "title": "Camp Quizzical",
+        "image": "imags/Camp_Quizzical.jpg",
+        "description": "Camp Quizzical",
+        "audiobook": "Camp_Quizzical.mp3",
+        "pdf": "pdfs/Camp_Quizzical.pdf"
+    },
+    {
+        "title": "Enchanted Fantasy Puzzles",
+        "image": "imags/Enchanted_Fantasy_Puzzles.jpg",
+        "description": "Enchanted Fantasy Puzzles",
+        "audiobook": "Enchanted_Fantasy_Puzzles.mp3",
+        "pdf": "pdfs/Enchanted_Fantasy_Puzzles.pdf"
+    },
+    {
+        "title": "Painting Party! (Blue's Clues & You)",
+        "image": "imags/Painting_Party!_(Blue's_Clues_&_You).jpg",
+        "description": "Painting Party! (Blue's Clues & You)",
+        "audiobook": "Painting_Party!_(Blue's_Clues_&_You).mp3",
+        "pdf": "pdfs/Painting_Party!_(Blue's_Clues_&_You).pdf"
+    },
+    {
+        "title": "PAW Patrol: The Movie: Official Activity Book",
+        "image": "imags/PAW_Patrol:_The_Movie:_Official_Activity_Book.jpg",
+        "description": "PAW Patrol: The Movie: Official Activity Book",
+        "audiobook": "PAW_Patrol:_The_Movie:_Official_Activity_Book.mp3",
+        "pdf": "pdfs/PAW_Patrol:_The_Movie:_Official_Activity_Book.pdf"
+    },
+    {
+        "title": "The Rainy Day Toddler Activity Book",
+        "image": "imags/The_Rainy_Day_Toddler_Activity_Book.jpg",
+        "description": "The Rainy Day Toddler Activity Book",
+        "audiobook": "The_Rainy_Day_Toddler_Activity_Book.mp3",
+        "pdf": "pdfs/The_Rainy_Day_Toddler_Activity_Book.pdf"
+    },
+    {
+        "title": "Pretend Soup and Other Real Recipes",
+        "image": "imags/Pretend_Soup_and_Other_Real_Recipes.jpg",
+        "description": "Pretend Soup and Other Real Recipes",
+        "audiobook": "Pretend_Soup_and_Other_Real_Recipes.mp3",
+        "pdf": "pdfs/Pretend_Soup_and_Other_Real_Recipes.pdf"
+    },
+    {
+        "title": "School is Fun Sticker Book",
+        "image": "imags/School_is_Fun_Sticker_Book.jpg",
+        "description": "School is Fun Sticker Book",
+        "audiobook": "School_is_Fun_Sticker_Book.mp3",
+        "pdf": "pdfs/School_is_Fun_Sticker_Book.pdf"
+    },
+    {
+        "title": "Draw Here: An Activity Book",
+        "image": "imags/Draw_Here:_An_Activity_Book.jpg",
+        "description": "Draw Here: An Activity Book",
+        "audiobook": "Draw_Here:_An_Activity_Book.mp3",
+        "pdf": "pdfs/Draw_Here:_An_Activity_Book.pdf"
+    },
+    {
+        "title": "Doodle and Discover: Animals!",
+        "image": "imags/Doodle_and_Discover:_Animals!.jpg",
+        "description": "Doodle and Discover: Animals!",
+        "audiobook": "Doodle_and_Discover:_Animals!.mp3",
+        "pdf": "pdfs/Doodle_and_Discover:_Animals!.pdf"
+    },
+    {
+        "title": "My Awesome World Activity Book",
+        "image": "imags/My_Awesome_World_Activity_Book.jpg",
+        "description": "My Awesome World Activity Book",
+        "audiobook": "My_Awesome_World_Activity_Book.mp3",
+        "pdf": "pdfs/My_Awesome_World_Activity_Book.pdf"
+    },
+    {
+        "title": "The Super Easy Giant Maze Book",
+        "image": "imags/The_Super_Easy_Giant_Maze_Book.jpg",
+        "description": "The Super Easy Giant Maze Book",
+        "audiobook": "The_Super_Easy_Giant_Maze_Book.mp3",
+        "pdf": "pdfs/The_Super_Easy_Giant_Maze_Book.pdf"
+    },
+    {
+        "title": "Sticker Dolly Dressing: Fairy Garden",
+        "image": "imags/Sticker_Dolly_Dressing:_Fairy_Garden.jpg",
+        "description": "Sticker Dolly Dressing: Fairy Garden",
+        "audiobook": "Sticker_Dolly_Dressing:_Fairy_Garden.mp3",
+        "pdf": "pdfs/Sticker_Dolly_Dressing:_Fairy_Garden.pdf"
+    },
+    {
+        "title": "Awesome Origami Animals",
+        "image": "imags/Awesome_Origami_Animals.jpg",
+        "description": "Awesome Origami Animals",
+        "audiobook": "Awesome_Origami_Animals.mp3",
+        "pdf": "pdfs/Awesome_Origami_Animals.pdf"
+    },
+    {
+        "title": "The Ultimate Book of Drawing & Doodling for Kids",
+        "image": "imags/The_Ultimate_Book_of_Drawing_&_Doodling_for_Kids.jpg",
+        "description": "The Ultimate Book of Drawing & Doodling for Kids",
+        "audiobook": "The_Ultimate_Book_of_Drawing_&_Doodling_for_Kids.mp3",
+        "pdf": "pdfs/The_Ultimate_Book_of_Drawing_&_Doodling_for_Kids.pdf"
+    },
+    {
+        "title": "The Creativity Box: A Year of Open Ended Activities",
+        "image": "imags/The_Creativity_Box:_A_Year_of_Open_Ended_Activities.jpg",
+        "description": "The Creativity Box: A Year of Open Ended Activities",
+        "audiobook": "The_Creativity_Box:_A_Year_of_Open_Ended_Activities.mp3",
+        "pdf": "pdfs/The_Creativity_Box:_A_Year_of_Open_Ended_Activities.pdf"
+    },
+    {
+        "title": "Wipe-Clean ABC & Animals",
+        "image": "imags/Wipe-Clean_ABC_&_Animals.jpg",
+        "description": "Wipe-Clean ABC & Animals",
+        "audiobook": "Wipe-Clean_ABC_&_Animals.mp3",
+        "pdf": "pdfs/Wipe-Clean_ABC_&_Animals.pdf"
+    },
+    {
+        "title": "My Big Wipe-Clean Activity Book",
+        "image": "imags/My_Big_Wipe-Clean_Activity_Book.jpg",
+        "description": "My Big Wipe-Clean Activity Book",
+        "audiobook": "My_Big_Wipe-Clean_Activity_Book.mp3",
+        "pdf": "pdfs/My_Big_Wipe-Clean_Activity_Book.pdf"
+    },
+    {
+        "title": "The Super Big Book of Superheroes",
+        "image": "imags/The_Super_Big_Book_of_Superheroes.jpg",
+        "description": "The Super Big Book of Superheroes",
+        "audiobook": "The_Super_Big_Book_of_Superheroes.mp3",
+        "pdf": "pdfs/The_Super_Big_Book_of_Superheroes.pdf"
+    },
+    {
+        "title": "The Super Big Book of Princesses",
+        "image": "imags/The_Super_Big_Book_of_Princesses.jpg",
+        "description": "The Super Big Book of Princesses",
+        "audiobook": "The_Super_Big_Book_of_Princesses.mp3",
+        "pdf": "pdfs/The_Super_Big_Book_of_Princesses.pdf"
+    },
+    {
+        "title": "The Super Big Book of Trucks",
+        "image": "imags/The_Super_Big_Book_of_Trucks.jpg",
+        "description": "The Super Big Book of Trucks",
+        "audiobook": "The_Super_Big_Book_of_Trucks.mp3",
+        "pdf": "pdfs/The_Super_Big_Book_of_Trucks.pdf"
+    },
+    {
+        "title": "The Super Big Book of Animals",
+        "image": "imags/The_Super_Big_Book_of_Animals.jpg",
+        "description": "The Super Big Book of Animals",
+        "audiobook": "The_Super_Big_Book_of_Animals.mp3",
+        "pdf": "pdfs/The_Super_Big_Book_of_Animals.pdf"
+    },
+    {
+        "title": "The Super Big Book of Space",
+        "image": "imags/The_Super_Big_Book_of_Space.jpg",
+        "description": "The Super Big Book of Space",
+        "audiobook": "The_Super_Big_Book_of_Space.mp3",
+        "pdf": "pdfs/The_Super_Big_Book_of_Space.pdf"
+    },
+    {
+        "title": "Amazing Mazes for Clever Kids",
+        "image": "imags/Amazing_Mazes_for_Clever_Kids.jpg",
+        "description": "Amazing Mazes for Clever Kids",
+        "audiobook": "Amazing_Mazes_for_Clever_Kids.mp3",
+        "pdf": "pdfs/Amazing_Mazes_for_Clever_Kids.pdf"
+    },
+    {
+        "title": "The Ultimate Activity Book for Budding Artists",
+        "image": "imags/The_Ultimate_Activity_Book_for_Budding_Artists.jpg",
+        "description": "The Ultimate Activity Book for Budding Artists",
+        "audiobook": "The_Ultimate_Activity_Book_for_Budding_Artists.mp3",
+        "pdf": "pdfs/The_Ultimate_Activity_Book_for_Budding_Artists.pdf"
+    },
+    {
+        "title": "My Big Book of Coloring",
+        "image": "imags/My_Big_Book_of_Coloring.jpg",
+        "description": "My Big Book of Coloring",
+        "audiobook": "My_Big_Book_of_Coloring.mp3",
+        "pdf": "pdfs/My_Big_Book_of_Coloring.pdf"
+    },
+    {
+        "title": "Awesome Jokes & Riddles for Kids",
+        "image": "imags/Awesome_Jokes_&_Riddles_for_Kids.jpg",
+        "description": "Awesome Jokes & Riddles for Kids",
+        "audiobook": "Awesome_Jokes_&_Riddles_for_Kids.mp3",
+        "pdf": "pdfs/Awesome_Jokes_&_Riddles_for_Kids.pdf"
+    },
+    {
+        "title": "The Ultimate Science Encyclopedia for Kids: Activity Book",
+        "image": "imags/The_Ultimate_Science_Encyclopedia_for_Kids:_Activity_Book.jpg",
+        "description": "The Ultimate Science Encyclopedia for Kids: Activity Book",
+        "audiobook": "The_Ultimate_Science_Encyclopedia_for_Kids:_Activity_Book.mp3",
+        "pdf": "pdfs/The_Ultimate_Science_Encyclopedia_for_Kids:_Activity_Book.pdf"
+    },
+    {
+        "title": "Coding for Kids: Activity Book",
+        "image": "imags/Coding_for_Kids:_Activity_Book.jpg",
+        "description": "Coding for Kids: Activity Book",
+        "audiobook": "Coding_for_Kids:_Activity_Book.mp3",
+        "pdf": "pdfs/Coding_for_Kids:_Activity_Book.pdf"
+    },
+    {
+        "title": "Brain Quest: First Grade Q&A Cards",
+        "image": "imags/Brain_Quest:_First_Grade_Q&A_Cards.jpg",
+        "description": "Brain Quest: First Grade Q&A Cards",
+        "audiobook": "Brain_Quest:_First_Grade_Q&A_Cards.mp3",
+        "pdf": "pdfs/Brain_Quest:_First_Grade_Q&A_Cards.pdf"
+    },
+    {
+        "title": "Brain Quest Kindergarten",
+        "image": "imags/Brain_Quest_Kindergarten.jpg",
+        "description": "Brain Quest Kindergarten",
+        "audiobook": "Brain_Quest_Kindergarten.mp3",
+        "pdf": "pdfs/Brain_Quest_Kindergarten.pdf"
+    },
+    {
+        "title": "The World of Eric Carle Activity Book",
+        "image": "imags/The_World_of_Eric_Carle_Activity_Book.jpg",
+        "description": "The World of Eric Carle Activity Book",
+        "audiobook": "The_World_of_Eric_Carle_Activity_Book.mp3",
+        "pdf": "pdfs/The_World_of_Eric_Carle_Activity_Book.pdf"
+    },
+    {
+        "title": "My Big Book of Animals Wipe-Clean Sticker Book",
+        "image": "imags/My_Big_Book_of_Animals_Wipe-Clean_Sticker_Book.jpg",
+        "description": "My Big Book of Animals Wipe-Clean Sticker Book",
+        "audiobook": "My_Big_Book_of_Animals_Wipe-Clean_Sticker_Book.mp3",
+        "pdf": "pdfs/My_Big_Book_of_Animals_Wipe-Clean_Sticker_Book.pdf"
+    },
+    {
+        "title": "Awesome Art Adventures for Kids",
+        "image": "imags/Awesome_Art_Adventures_for_Kids.jpg",
+        "description": "Awesome Art Adventures for Kids",
+        "audiobook": "Awesome_Art_Adventures_for_Kids.mp3",
+        "pdf": "pdfs/Awesome_Art_Adventures_for_Kids.pdf"
+    },
+    {
+        "title": "The Ultimate Joke Book for Kids",
+        "image": "imags/The_Ultimate_Joke_Book_for_Kids.jpg",
+        "description": "The Ultimate Joke Book for Kids",
+        "audiobook": "The_Ultimate_Joke_Book_for_Kids.mp3",
+        "pdf": "pdfs/The_Ultimate_Joke_Book_for_Kids.pdf"
+    },
+    {
+        "title": "The Creativity Journal for Kids: 52 Weeks of Fun",
+        "image": "imags/The_Creativity_Journal_for_Kids:_52_Weeks_of_Fun.jpg",
+        "description": "The Creativity Journal for Kids: 52 Weeks of Fun",
+        "audiobook": "The_Creativity_Journal_for_Kids:_52_Weeks_of_Fun.mp3",
+        "pdf": "pdfs/The_Creativity_Journal_for_Kids:_52_Weeks_of_Fun.pdf"
+    },
+    {
+        "title": "Imagine That! Activity Book",
+        "image": "imags/Imagine_That!_Activity_Book.jpg",
+        "description": "Imagine That! Activity Book",
+        "audiobook": "Imagine_That!_Activity_Book.mp3",
+        "pdf": "pdfs/Imagine_That!_Activity_Book.pdf"
+    },
+    {
+        "title": "The Ultimate Book of Fun Facts",
+        "image": "imags/The_Ultimate_Book_of_Fun_Facts.jpg",
+        "description": "The Ultimate Book of Fun Facts",
+        "audiobook": "The_Ultimate_Book_of_Fun_Facts.mp3",
+        "pdf": "pdfs/The_Ultimate_Book_of_Fun_Facts.pdf"
+    },
+    {
+        "title": "The Big Book of Coding Activities",
+        "image": "imags/The_Big_Book_of_Coding_Activities.jpg",
+        "description": "The Big Book of Coding Activities",
+        "audiobook": "The_Big_Book_of_Coding_Activities.mp3",
+        "pdf": "pdfs/The_Big_Book_of_Coding_Activities.pdf"
+    },
+    {
+        "title": "My Big Book of Animals Activity Book",
+        "image": "imags/My_Big_Book_of_Animals_Activity_Book.jpg",
+        "description": "My Big Book of Animals Activity Book",
+        "audiobook": "My_Big_Book_of_Animals_Activity_Book.mp3",
+        "pdf": "pdfs/My_Big_Book_of_Animals_Activity_Book.pdf"
+    },
+    {
+        "title": "The Super Easy Giant Dot-to-Dot Book",
+        "image": "imags/The_Super_Easy_Giant_Dot-to-Dot_Book.jpg",
+        "description": "The Super Easy Giant Dot-to-Dot Book",
+        "audiobook": "The_Super_Easy_Giant_Dot-to-Dot_Book.mp3",
+        "pdf": "pdfs/The_Super_Easy_Giant_Dot-to-Dot_Book.pdf"
+    },
+    {
+        "title": "The Super Big Book of Dinosaurs",
+        "image": "imags/The_Super_Big_Book_of_Dinosaurs.jpg",
+        "description": "The Super Big Book of Dinosaurs",
+        "audiobook": "The_Super_Big_Book_of_Dinosaurs.mp3",
+        "pdf": "pdfs/The_Super_Big_Book_of_Dinosaurs.pdf"
+    },
+    {
+        "title": "The Super Big Book of Unicorns",
+        "image": "imags/The_Super_Big_Book_of_Unicorns.jpg",
+        "description": "The Super Big Book of Unicorns",
+        "audiobook": "The_Super_Big_Book_of_Unicorns.mp3",
+        "pdf": "pdfs/The_Super_Big_Book_of_Unicorns.pdf"
+    },
+    {
+        "title": "My Big Book of Princess Stickers",
+        "image": "imags/My_Big_Book_of_Princess_Stickers.jpg",
+        "description": "My Big Book of Princess Stickers",
+        "audiobook": "My_Big_Book_of_Princess_Stickers.mp3",
+        "pdf": "pdfs/My_Big_Book_of_Princess_Stickers.pdf"
+    },
+    {
+        "title": "My Big Book of Trucks Stickers",
+        "image": "imags/My_Big_Book_of_Trucks_Stickers.jpg",
+        "description": "My Big Book of Trucks Stickers",
+        "audiobook": "My_Big_Book_of_Trucks_Stickers.mp3",
+        "pdf": "pdfs/My_Big_Book_of_Trucks_Stickers.pdf"
+    },
+    {
+        "title": "Awesome Joke-a-Doodle: A Hilarious Activity Book",
+        "image": "imags/Awesome_Joke-a-Doodle:_A_Hilarious_Activity_Book.jpg",
+        "description": "Awesome Joke-a-Doodle: A Hilarious Activity Book",
+        "audiobook": "Awesome_Joke-a-Doodle:_A_Hilarious_Activity_Book.mp3",
+        "pdf": "pdfs/Awesome_Joke-a-Doodle:_A_Hilarious_Activity_Book.pdf"
+    },
+    {
+        "title": "The Creativity Journal for Kids: Volume 2",
+        "image": "imags/The_Creativity_Journal_for_Kids:_Volume_2.jpg",
+        "description": "The Creativity Journal for Kids: Volume 2",
+        "audiobook": "The_Creativity_Journal_for_Kids:_Volume_2.mp3",
+        "pdf": "pdfs/The_Creativity_Journal_for_Kids:_Volume_2.pdf"
+    },
+    {
+        "title": "The 100 Things to Do Activity Book",
+        "image": "imags/The_100_Things_to_Do_Activity_Book.jpg",
+        "description": "The 100 Things to Do Activity Book",
+        "audiobook": "The_100_Things_to_Do_Activity_Book.mp3",
+        "pdf": "pdfs/The_100_Things_to_Do_Activity_Book.pdf"
+    },
+    {
+        "title": "Awesome Activity Book for Kids Who Love Unicorns",
+        "image": "imags/Awesome_Activity_Book_for_Kids_Who_Love_Unicorns.jpg",
+        "description": "Awesome Activity Book for Kids Who Love Unicorns",
+        "audiobook": "Awesome_Activity_Book_for_Kids_Who_Love_Unicorns.mp3",
+        "pdf": "pdfs/Awesome_Activity_Book_for_Kids_Who_Love_Unicorns.pdf"
+    },
+    {
+        "title": "Doodle By Numbers: Amazing Animals",
+        "image": "imags/Doodle_By_Numbers:_Amazing_Animals.jpg",
+        "description": "Doodle By Numbers: Amazing Animals",
+        "audiobook": "Doodle_By_Numbers:_Amazing_Animals.mp3",
+        "pdf": "pdfs/Doodle_By_Numbers:_Amazing_Animals.pdf"
+    },
+    {
+        "title": "The Ultimate Book of Secret Codes",
+        "image": "imags/The_Ultimate_Book_of_Secret_Codes.jpg",
+        "description": "The Ultimate Book of Secret Codes",
+        "audiobook": "The_Ultimate_Book_of_Secret_Codes.mp3",
+        "pdf": "pdfs/The_Ultimate_Book_of_Secret_Codes.pdf"
+    },
+    {
+        "title": "Super Challenge Hidden Pictures",
+        "image": "imags/Super_Challenge_Hidden_Pictures.jpg",
+        "description": "Super Challenge Hidden Pictures",
+        "audiobook": "Super_Challenge_Hidden_Pictures.mp3",
+        "pdf": "pdfs/Super_Challenge_Hidden_Pictures.pdf"
+    },
+    {
+        "title": "My Big World of Things to Do: Wipe-Clean Activity Book",
+        "image": "imags/My_Big_World_of_Things_to_Do:_Wipe-Clean_Activity_Book.jpg",
+        "description": "My Big World of Things to Do: Wipe-Clean Activity Book",
+        "audiobook": "My_Big_World_of_Things_to_Do:_Wipe-Clean_Activity_Book.mp3",
+        "pdf": "pdfs/My_Big_World_of_Things_to_Do:_Wipe-Clean_Activity_Book.pdf"
+    },
+    {
+        "title": "Ultimate Sticker Book: Mermaids",
+        "image": "imags/Ultimate_Sticker_Book:_Mermaids.jpg",
+        "description": "Ultimate Sticker Book: Mermaids",
+        "audiobook": "Ultimate_Sticker_Book:_Mermaids.mp3",
+        "pdf": "pdfs/Ultimate_Sticker_Book:_Mermaids.pdf"
+    },
+    {
+        "title": "Ultimate Sticker Book: Space",
+        "image": "imags/Ultimate_Sticker_Book:_Space.jpg",
+        "description": "Ultimate Sticker Book: Space",
+        "audiobook": "Ultimate_Sticker_Book:_Space.mp3",
+        "pdf": "pdfs/Ultimate_Sticker_Book:_Space.pdf"
+    },
+    {
+        "title": "Sticker Dolly Dressing: Ballet Performance",
+        "image": "imags/Sticker_Dolly_Dressing:_Ballet_Performance.jpg",
+        "description": "Sticker Dolly Dressing: Ballet Performance",
+        "audiobook": "Sticker_Dolly_Dressing:_Ballet_Performance.mp3",
+        "pdf": "pdfs/Sticker_Dolly_Dressing:_Ballet_Performance.pdf"
+    },
+    {
+        "title": "The Secret Garden: An Inky Adventure Activity Book",
+        "image": "imags/The_Secret_Garden:_An_Inky_Adventure_Activity_Book.jpg",
+        "description": "The Secret Garden: An Inky Adventure Activity Book",
+        "audiobook": "The_Secret_Garden:_An_Inky_Adventure_Activity_Book.mp3",
+        "pdf": "pdfs/The_Secret_Garden:_An_Inky_Adventure_Activity_Book.pdf"
+    },
+    {
+        "title": "The World of David Walliams Activity Book",
+        "image": "imags/The_World_of_David_Walliams_Activity_Book.jpg",
+        "description": "The World of David Walliams Activity Book",
+        "audiobook": "The_World_of_David_Walliams_Activity_Book.mp3",
+        "pdf": "pdfs/The_World_of_David_Walliams_Activity_Book.pdf"
+    },
+    {
+        "title": "The 100 Days of Kindness Activity Book",
+        "image": "imags/The_100_Days_of_Kindness_Activity_Book.jpg",
+        "description": "The 100 Days of Kindness Activity Book",
+        "audiobook": "The_100_Days_of_Kindness_Activity_Book.mp3",
+        "pdf": "pdfs/The_100_Days_of_Kindness_Activity_Book.pdf"
+    },
+    {
+        "title": "The Mindfulness Journal for Kids: 75 Activities for Calming Your Mind and Heart",
+        "image": "imags/The_Mindfulness_Journal_for_Kids:_75_Activities_for_Calming_Your_Mind_and_Heart.jpg",
+        "description": "The Mindfulness Journal for Kids: 75 Activities for Calming Your Mind and Heart",
+        "audiobook": "The_Mindfulness_Journal_for_Kids:_75_Activities_for_Calming_Your_Mind_and_Heart.mp3",
+        "pdf": "pdfs/The_Mindfulness_Journal_for_Kids:_75_Activities_for_Calming_Your_Mind_and_Heart.pdf"
+    },
+    {
+        "title": "The Coding Activity Book for Girls",
+        "image": "imags/The_Coding_Activity_Book_for_Girls.jpg",
+        "description": "The Coding Activity Book for Girls",
+        "audiobook": "The_Coding_Activity_Book_for_Girls.mp3",
+        "pdf": "pdfs/The_Coding_Activity_Book_for_Girls.pdf"
+    },
+    {
+        "title": "Ultimate Pop-Up Book: Animals",
+        "image": "imags/Ultimate_Pop-Up_Book:_Animals.jpg",
+        "description": "Ultimate Pop-Up Book: Animals",
+        "audiobook": "Ultimate_Pop-Up_Book:_Animals.mp3",
+        "pdf": "pdfs/Ultimate_Pop-Up_Book:_Animals.pdf"
+    },
+    {
+        "title": "My First Coding Book",
+        "image": "imags/My_First_Coding_Book.jpg",
+        "description": "My First Coding Book",
+        "audiobook": "My_First_Coding_Book.mp3",
+        "pdf": "pdfs/My_First_Coding_Book.pdf"
+    },
+    {
+        "title": "The Super Big Book of Crafts",
+        "image": "imags/The_Super_Big_Book_of_Crafts.jpg",
+        "description": "The Super Big Book of Crafts",
+        "audiobook": "The_Super_Big_Book_of_Crafts.mp3",
+        "pdf": "pdfs/The_Super_Big_Book_of_Crafts.pdf"
+    },
+    {
+        "title": "The Super Big Book of Fairy Tales",
+        "image": "imags/The_Super_Big_Book_of_Fairy_Tales.jpg",
+        "description": "The Super Big Book of Fairy Tales",
+        "audiobook": "The_Super_Big_Book_of_Fairy_Tales.mp3",
+        "pdf": "pdfs/The_Super_Big_Book_of_Fairy_Tales.pdf"
+    },
+    {
+        "title": "The Super Big Book of Bugs & Butterflies",
+        "image": "imags/The_Super_Big_Book_of_Bugs_&_Butterflies.jpg",
+        "description": "The Super Big Book of Bugs & Butterflies",
+        "audiobook": "The_Super_Big_Book_of_Bugs_&_Butterflies.mp3",
+        "pdf": "pdfs/The_Super_Big_Book_of_Bugs_&_Butterflies.pdf"
+    },
+    {
+        "title": "My Big Book of Mermaid Stickers",
+        "image": "imags/My_Big_Book_of_Mermaid_Stickers.jpg",
+        "description": "My Big Book of Mermaid Stickers",
+        "audiobook": "My_Big_Book_of_Mermaid_Stickers.mp3",
+        "pdf": "pdfs/My_Big_Book_of_Mermaid_Stickers.pdf"
+    },
+    {
+        "title": "My Big Book of Construction Stickers",
+        "image": "imags/My_Big_Book_of_Construction_Stickers.jpg",
+        "description": "My Big Book of Construction Stickers",
+        "audiobook": "My_Big_Book_of_Construction_Stickers.mp3",
+        "pdf": "pdfs/My_Big_Book_of_Construction_Stickers.pdf"
+    },
+    {
+        "title": "Awesome Activity Book for Kids Who Love Cats",
+        "image": "imags/Awesome_Activity_Book_for_Kids_Who_Love_Cats.jpg",
+        "description": "Awesome Activity Book for Kids Who Love Cats",
+        "audiobook": "Awesome_Activity_Book_for_Kids_Who_Love_Cats.mp3",
+        "pdf": "pdfs/Awesome_Activity_Book_for_Kids_Who_Love_Cats.pdf"
     }
 ]
