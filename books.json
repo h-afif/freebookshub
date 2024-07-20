@@ -1895,5 +1895,47 @@
         "description": "To Kill a Mockingbird",
         "audiobook": "To_Kill_a_Mockingbird.mp3",
         "pdf": "pdfs/To_Kill_a_Mockingbird.pdf"
+    },
+    {
+        "title": "Cuentos de la selva",
+        "image": "imags/Cuentos_de_la_selva.jpg",
+        "description": "Cuentos de la selva",
+        "audiobook": "Cuentos_de_la_selva.mp3",
+        "pdf": "pdfs/Cuentos_de_la_selva.pdf"
+    },
+    {
+        "title": "Easy Spanish Step-By-Step",
+        "image": "imags/Easy_Spanish_Step-By-Step.jpg",
+        "description": "Easy Spanish Step-By-Step",
+        "audiobook": "Easy_Spanish_Step-By-Step.mp3",
+        "pdf": "pdfs/Easy_Spanish_Step-By-Step.pdf"
+    },
+    {
+        "title": "See It and Say It in Spanish",
+        "image": "imags/See_It_and_Say_It_in_Spanish.jpg",
+        "description": "See It and Say It in Spanish",
+        "audiobook": "See_It_and_Say_It_in_Spanish.mp3",
+        "pdf": "pdfs/See_It_and_Say_It_in_Spanish.pdf"
+    },
+    {
+        "title": "Madrigal's Magic Key to Spanish",
+        "image": "imags/Madrigal's_Magic_Key_to_Spanish.jpg",
+        "description": "Madrigal's Magic Key to Spanish",
+        "audiobook": "Madrigal's_Magic_Key_to_Spanish.mp3",
+        "pdf": "pdfs/Madrigal's_Magic_Key_to_Spanish.pdf"
+    },
+    {
+        "title": "Spanish Short Stories for Beginners",
+        "image": "imags/Spanish_Short_Stories_for_Beginners.jpg",
+        "description": "Spanish Short Stories for Beginners",
+        "audiobook": "Spanish_Short_Stories_for_Beginners.mp3",
+        "pdf": "pdfs/Spanish_Short_Stories_for_Beginners.pdf"
+    },
+    {
+        "title": "El lazarillo de Tormes",
+        "image": "imags/El_lazarillo_de_Tormes.jpg",
+        "description": "El lazarillo de Tormes",
+        "audiobook": "El_lazarillo_de_Tormes.mp3",
+        "pdf": "pdfs/El_lazarillo_de_Tormes.pdf"
     }
 ]
