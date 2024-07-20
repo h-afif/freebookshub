@@ -1825,5 +1825,75 @@
         "description": "Awesome Activity Book for Kids Who Love Cats",
         "audiobook": "Awesome_Activity_Book_for_Kids_Who_Love_Cats.mp3",
         "pdf": "pdfs/Awesome_Activity_Book_for_Kids_Who_Love_Cats.pdf"
+    },
+    {
+        "title": "The Cat in the Hat",
+        "image": "images/The_Cat_in_the_Hat.jpg",
+        "description": "The Cat in the Hat",
+        "audiobook": "The_Cat_in_the_Hat.mp3",
+        "pdf": "pdfs/The_Cat_in_the_Hat.pdf"
+    },
+    {
+        "title": "The Very Hungry Caterpillar",
+        "image": "images/The_Very_Hungry_Caterpillar.jpg",
+        "description": "The Very Hungry Caterpillar",
+        "audiobook": "The_Very_Hungry_Caterpillar.mp3",
+        "pdf": "pdfs/The_Very_Hungry_Caterpillar.pdf"
+    },
+    {
+        "title": "Chicka Chicka Boom Boom",
+        "image": "images/Chicka_Chicka_Boom_Boom.jpg",
+        "description": "Chicka Chicka Boom Boom",
+        "audiobook": "Chicka_Chicka_Boom_Boom.mp3",
+        "pdf": "pdfs/Chicka_Chicka_Boom_Boom.pdf"
+    },
+    {
+        "title": "Charlotte's Web",
+        "image": "images/Charlotte's_Web.jpg",
+        "description": "Charlotte's Web",
+        "audiobook": "Charlotte's_Web.mp3",
+        "pdf": "pdfs/Charlotte's_Web.pdf"
+    },
+    {
+        "title": "James and the Giant Peach",
+        "image": "images/James_and_the_Giant_Peach.jpg",
+        "description": "James and the Giant Peach",
+        "audiobook": "James_and_the_Giant_Peach.mp3",
+        "pdf": "pdfs/James_and_the_Giant_Peach.pdf"
+    },
+    {
+        "title": "The Wizard of Oz",
+        "image": "images/The_Wizard_of_Oz.jpg",
+        "description": "The Wizard of Oz",
+        "audiobook": "The_Wizard_of_Oz.mp3",
+        "pdf": "pdfs/The_Wizard_of_Oz.pdf"
+    },
+    {
+        "title": "Animal Farm",
+        "image": "images/Animal_Farm.jpg",
+        "description": "Animal Farm",
+        "audiobook": "Animal_Farm.mp3",
+        "pdf": "pdfs/Animal_Farm.pdf"
+    },
+    {
+        "title": "The Adventures of Sherlock Holmes",
+        "image": "images/The_Adventures_of_Sherlock_Holmes.jpg",
+        "description": "The Adventures of Sherlock Holmes",
+        "audiobook": "The_Adventures_of_Sherlock_Holmes.mp3",
+        "pdf": "pdfs/The_Adventures_of_Sherlock_Holmes.pdf"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "image": "images/Pride_and_Prejudice.jpg",
+        "description": "Pride and Prejudice",
+        "audiobook": "Pride_and_Prejudice.mp3",
+        "pdf": "pdfs/Pride_and_Prejudice.pdf"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "image": "images/To_Kill_a_Mockingbird.jpg",
+        "description": "To Kill a Mockingbird",
+        "audiobook": "To_Kill_a_Mockingbird.mp3",
+        "pdf": "pdfs/To_Kill_a_Mockingbird.pdf"
     }
 ]
