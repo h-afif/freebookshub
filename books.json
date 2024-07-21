@@ -1937,5 +1937,61 @@
         "description": "El lazarillo de Tormes",
         "audiobook": "El_lazarillo_de_Tormes.mp3",
         "pdf": "pdfs/El_lazarillo_de_Tormes.pdf"
+    },
+    {
+        "title": "300 Tang Poems",
+        "image": "imags/300_Tang_Poems.jpg",
+        "description": "300 Tang Poems",
+        "audiobook": "300_Tang_Poems.mp3",
+        "pdf": "pdfs/300_Tang_Poems.pdf"
+    },
+    {
+        "title": "Colloquial Chinese The Complete Course for Beginners",
+        "image": "imags/Colloquial_Chinese_The_Complete_Course_for_Beginners.jpg",
+        "description": "Colloquial Chinese The Complete Course for Beginners",
+        "audiobook": "Colloquial_Chinese_The_Complete_Course_for_Beginners.mp3",
+        "pdf": "pdfs/Colloquial_Chinese_The_Complete_Course_for_Beginners.pdf"
+    },
+    {
+        "title": "Developing Chinese Reading & Writing 3",
+        "image": "imags/Developing_Chinese_Reading_&_Writing_3.jpg",
+        "description": "Developing Chinese Reading & Writing 3",
+        "audiobook": "Developing_Chinese_Reading_&_Writing_3.mp3",
+        "pdf": "pdfs/Developing_Chinese_Reading_&_Writing_3.pdf"
+    },
+    {
+        "title": "Essential Spoken Chinese",
+        "image": "imags/Essential_Spoken_Chinese.jpg",
+        "description": "Essential Spoken Chinese",
+        "audiobook": "Essential_Spoken_Chinese.mp3",
+        "pdf": "pdfs/Essential_Spoken_Chinese.pdf"
+    },
+    {
+        "title": "Sun Tzu's Art of War",
+        "image": "imags/Sun_Tzu's_Art_of_War.jpg",
+        "description": "Sun Tzu's Art of War",
+        "audiobook": "Sun_Tzu's_Art_of_War.mp3",
+        "pdf": "pdfs/Sun_Tzu's_Art_of_War.pdf"
+    },
+    {
+        "title": "Integrated Chinese Textbook 1 Simplified Characters",
+        "image": "imags/Integrated_Chinese_Textbook_1_Simplified_Characters.jpg",
+        "description": "Integrated Chinese Textbook 1 Simplified Characters",
+        "audiobook": "Integrated_Chinese_Textbook_1_Simplified_Characters.mp3",
+        "pdf": "pdfs/Integrated_Chinese_Textbook_1_Simplified_Characters.pdf"
+    },
+    {
+        "title": "The Stories of Liaozhai",
+        "image": "imags/The_Stories_of_Liaozhai.jpg",
+        "description": "The Stories of Liaozhai",
+        "audiobook": "The_Stories_of_Liaozhai.mp3",
+        "pdf": "pdfs/The_Stories_of_Liaozhai.pdf"
+    },
+    {
+        "title": "My First Chinese Words Picture Dictionary",
+        "image": "imags/My_First_Chinese_Words_Picture_Dictionary.jpg",
+        "description": "My First Chinese Words Picture Dictionary",
+        "audiobook": "My_First_Chinese_Words_Picture_Dictionary.mp3",
+        "pdf": "pdfs/My_First_Chinese_Words_Picture_Dictionary.pdf"
     }
 ]
