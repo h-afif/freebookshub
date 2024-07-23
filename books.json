@@ -2056,5 +2056,56 @@
         "description": "The Stranger by Albert Camus",
         "audiobook": "The_Stranger_by_Albert_Camus.mp3",
         "pdf": "pdfs/The_Stranger_by_Albert_Camus.pdf"
+    },
+    [
+    {
+        "title": "Al-Kitaab fii Ta allum al-Arabiyya",
+        "image": "imags/Al-Kitaab_fii_Ta_allum_al-Arabiyya.jpg",
+        "description": "Al-Kitaab fii Ta allum al-Arabiyya",
+        "audiobook": "Al-Kitaab_fii_Ta_allum_al-Arabiyya.mp3",
+        "pdf": "pdfs/Al-Kitaab_fii_Ta_allum_al-Arabiyya.pdf"
+    },
+    {
+        "title": "Alif Baa Introduction to Arabic Letters and Sounds",
+        "image": "imags/Alif_Baa_Introduction_to_Arabic_Letters_and_Sounds.jpg",
+        "description": "Alif Baa Introduction to Arabic Letters and Sounds",
+        "audiobook": "Alif_Baa_Introduction_to_Arabic_Letters_and_Sounds.mp3",
+        "pdf": "pdfs/Alif_Baa_Introduction_to_Arabic_Letters_and_Sounds.pdf"
+    },
+    {
+        "title": "My First Arabic Words Picture Dictionary",
+        "image": "imags/My_First_Arabic_Words_Picture_Dictionary.jpg",
+        "description": "My First Arabic Words Picture Dictionary",
+        "audiobook": "My_First_Arabic_Words_Picture_Dictionary.mp3",
+        "pdf": "pdfs/My_First_Arabic_Words_Picture_Dictionary.pdf"
+    },
+    {
+        "title": "Arabic for Life A Textbook for Beginning Arabic",
+        "image": "imags/Arabic_for_Life_A_Textbook_for_Beginning_Arabic.jpg",
+        "description": "Arabic for Life A Textbook for Beginning Arabic",
+        "audiobook": "Arabic_for_Life_A_Textbook_for_Beginning_Arabic.mp3",
+        "pdf": "pdfs/Arabic_for_Life_A_Textbook_for_Beginning_Arabic.pdf"
+    },
+    {
+        "title": "Arabic Short Stories for Beginners",
+        "image": "imags/Arabic_Short_Stories_for_Beginners.jpg",
+        "description": "Arabic Short Stories for Beginners",
+        "audiobook": "Arabic_Short_Stories_for_Beginners.mp3",
+        "pdf": "pdfs/Arabic_Short_Stories_for_Beginners.pdf"
+    },
+    {
+        "title": "Al-Ghazalis Ihya Ulum al-Din",
+        "image": "imags/Al-Ghazalis_Ihya_Ulum_al-Din.jpg",
+        "description": "Al-Ghazalis Ihya Ulum al-Din",
+        "audiobook": "Al-Ghazalis_Ihya_Ulum_al-Din.mp3",
+        "pdf": "pdfs/Al-Ghazalis_Ihya_Ulum_al-Din.pdf"
+    },
+    {
+        "title": "The Adventures of Antar Ibn Shammar",
+        "image": "imags/The_Adventures_of_Antar_Ibn_Shammar.jpg",
+        "description": "The Adventures of Antar Ibn Shammar",
+        "audiobook": "The_Adventures_of_Antar_Ibn_Shammar.mp3",
+        "pdf": "pdfs/The_Adventures_of_Antar_Ibn_Shammar.pdf"
     }
+]
 ]
