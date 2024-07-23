@@ -1993,5 +1993,68 @@
         "description": "My First Chinese Words Picture Dictionary",
         "audiobook": "My_First_Chinese_Words_Picture_Dictionary.mp3",
         "pdf": "pdfs/My_First_Chinese_Words_Picture_Dictionary.pdf"
+    },
+        {
+        "title": "Assimil French with Ease",
+        "image": "imags/Assimil_French_with_Ease.jpg",
+        "description": "Assimil French with Ease",
+        "audiobook": "Assimil_French_with_Ease.mp3",
+        "pdf": "pdfs/Assimil_French_with_Ease.pdf"
+    },
+    {
+        "title": "French All-in-One for Dummies",
+        "image": "imags/French_All-in-One_for_Dummies.jpg",
+        "description": "French All-in-One for Dummies",
+        "audiobook": "French_All-in-One_for_Dummies.mp3",
+        "pdf": "pdfs/French_All-in-One_for_Dummies.pdf"
+    },
+    {
+        "title": "Duolingo French for Beginners",
+        "image": "imags/Duolingo_French_for_Beginners.jpg",
+        "description": "Duolingo French for Beginners",
+        "audiobook": "Duolingo_French_for_Beginners.mp3",
+        "pdf": "pdfs/Duolingo_French_for_Beginners.pdf"
+    },
+    {
+        "title": "A Short History of Nearly Everything by Bill Bryson French Version",
+        "image": "imags/A_Short_History_of_Nearly_Everything_by_Bill_Bryson_French_Version.jpg",
+        "description": "A Short History of Nearly Everything by Bill Bryson French Version",
+        "audiobook": "A_Short_History_of_Nearly_Everything_by_Bill_Bryson_French_Version.mp3",
+        "pdf": "pdfs/A_Short_History_of_Nearly_Everything_by_Bill_Bryson_French_Version.pdf"
+    },
+    {
+        "title": "French Short Stories for Beginners by Carolyn Hopper",
+        "image": "imags/French_Short_Stories_for_Beginners_by_Carolyn_Hopper.jpg",
+        "description": "French Short Stories for Beginners by Carolyn Hopper",
+        "audiobook": "French_Short_Stories_for_Beginners_by_Carolyn_Hopper.mp3",
+        "pdf": "pdfs/French_Short_Stories_for_Beginners_by_Carolyn_Hopper.pdf"
+    },
+    {
+        "title": "Le Petit Nicolas by Rene Goscinny",
+        "image": "imags/Le_Petit_Nicolas_by_Rene_Goscinny.jpg",
+        "description": "Le Petit Nicolas by Rene Goscinny",
+        "audiobook": "Le_Petit_Nicolas_by_Rene_Goscinny.mp3",
+        "pdf": "pdfs/Le_Petit_Nicolas_by_Rene_Goscinny.pdf"
+    },
+    {
+        "title": "The Count of Monte Cristo by Alexandre Dumas",
+        "image": "imags/The_Count_of_Monte_Cristo_by_Alexandre_Dumas.jpg",
+        "description": "The Count of Monte Cristo by Alexandre Dumas",
+        "audiobook": "The_Count_of_Monte_Cristo_by_Alexandre_Dumas.mp3",
+        "pdf": "pdfs/The_Count_of_Monte_Cristo_by_Alexandre_Dumas.pdf"
+    },
+    {
+        "title": "Les Miserables by Victor Hugo",
+        "image": "imags/Les_Miserables_by_Victor_Hugo.jpg",
+        "description": "Les Miserables by Victor Hugo",
+        "audiobook": "Les_Miserables_by_Victor_Hugo.mp3",
+        "pdf": "pdfs/Les_Miserables_by_Victor_Hugo.pdf"
+    },
+    {
+        "title": "The Stranger by Albert Camus",
+        "image": "imags/The_Stranger_by_Albert_Camus.jpg",
+        "description": "The Stranger by Albert Camus",
+        "audiobook": "The_Stranger_by_Albert_Camus.mp3",
+        "pdf": "pdfs/The_Stranger_by_Albert_Camus.pdf"
     }
 ]
