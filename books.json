@@ -2154,5 +2154,174 @@
         "description": "Der Steppenwolf by Hermann Hesse advanced",
         "audiobook": "Der_Steppenwolf_by_Hermann_Hesse_advanced.mp3",
         "pdf": "pdfs/Der_Steppenwolf_by_Hermann_Hesse_advanced.pdf"
+    },
+    {
+        "title": "The Cat in the Hat",
+        "image": "imags/The_Cat_in_the_Hat.jpg",
+        "description": "The Cat in the Hat",
+        "audiobook": "The_Cat_in_the_Hat.mp3",
+        "pdf": "pdfs/The_Cat_in_the_Hat.pdf"
+    },
+    {
+        "title": "Green Eggs and Ham",
+        "image": "imags/Green_Eggs_and_Ham.jpg",
+        "description": "Green Eggs and Ham",
+        "audiobook": "Green_Eggs_and_Ham.mp3",
+        "pdf": "pdfs/Green_Eggs_and_Ham.pdf"
+    },
+    {
+        "title": "The Very Hungry Caterpillar",
+        "image": "imags/The_Very_Hungry_Caterpillar.jpg",
+        "description": "The Very Hungry Caterpillar",
+        "audiobook": "The_Very_Hungry_Caterpillar.mp3",
+        "pdf": "pdfs/The_Very_Hungry_Caterpillar.pdf"
+    },
+    {
+        "title": "Goodnight Moon",
+        "image": "imags/Goodnight_Moon.jpg",
+        "description": "Goodnight Moon",
+        "audiobook": "Goodnight_Moon.mp3",
+        "pdf": "pdfs/Goodnight_Moon.pdf"
+    },
+    {
+        "title": "Where's Waldo",
+        "image": "imags/Where's_Waldo.jpg",
+        "description": "Where's Waldo",
+        "audiobook": "Where's_Waldo.mp3",
+        "pdf": "pdfs/Where's_Waldo.pdf"
+    },
+    {
+        "title": "Chicka Chicka Boom Boom",
+        "image": "imags/Chicka_Chicka_Boom_Boom.jpg",
+        "description": "Chicka Chicka Boom Boom",
+        "audiobook": "Chicka_Chicka_Boom_Boom.mp3",
+        "pdf": "pdfs/Chicka_Chicka_Boom_Boom.pdf"
+    },
+    {
+        "title": "The Snowy Day",
+        "image": "imags/The_Snowy_Day.jpg",
+        "description": "The Snowy Day",
+        "audiobook": "The_Snowy_Day.mp3",
+        "pdf": "pdfs/The_Snowy_Day.pdf"
+    },
+    {
+        "title": "The Little Engine That Could",
+        "image": "imags/The_Little_Engine_That_Could.jpg",
+        "description": "The Little Engine That Could",
+        "audiobook": "The_Little_Engine_That_Could.mp3",
+        "pdf": "pdfs/The_Little_Engine_That_Could.pdf"
+    },
+    {
+        "title": "The Polar Express",
+        "image": "imags/The_Polar_Express.jpg",
+        "description": "The Polar Express",
+        "audiobook": "The_Polar_Express.mp3",
+        "pdf": "pdfs/The_Polar_Express.pdf"
+    },
+    {
+        "title": "Peter Rabbit",
+        "image": "imags/Peter_Rabbit.jpg",
+        "description": "Peter Rabbit",
+        "audiobook": "Peter_Rabbit.mp3",
+        "pdf": "pdfs/Peter_Rabbit.pdf"
+    },
+    {
+        "title": "Corduroy",
+        "image": "imags/Corduroy.jpg",
+        "description": "Corduroy",
+        "audiobook": "Corduroy.mp3",
+        "pdf": "pdfs/Corduroy.pdf"
+    },
+    {
+        "title": "The Napping House",
+        "image": "imags/The_Napping_House.jpg",
+        "description": "The Napping House",
+        "audiobook": "The_Napping_House.mp3",
+        "pdf": "pdfs/The_Napping_House.pdf"
+    },
+    {
+        "title": "The Very Busy Spider",
+        "image": "imags/The_Very_Busy_Spider.jpg",
+        "description": "The Very Busy Spider",
+        "audiobook": "The_Very_Busy_Spider.mp3",
+        "pdf": "pdfs/The_Very_Busy_Spider.pdf"
+    },
+    {
+        "title": "The Three Little Pigs",
+        "image": "imags/The_Three_Little_Pigs.jpg",
+        "description": "The Three Little Pigs",
+        "audiobook": "The_Three_Little_Pigs.mp3",
+        "pdf": "pdfs/The_Three_Little_Pigs.pdf"
+    },
+    {
+        "title": "Goldilocks and the Three Bears",
+        "image": "imags/Goldilocks_and_the_Three_Bears.jpg",
+        "description": "Goldilocks and the Three Bears",
+        "audiobook": "Goldilocks_and_the_Three_Bears.mp3",
+        "pdf": "pdfs/Goldilocks_and_the_Three_Bears.pdf"
+    },
+    {
+        "title": "The Tortoise and the Hare",
+        "image": "imags/The_Tortoise_and_the_Hare.jpg",
+        "description": "The Tortoise and the Hare",
+        "audiobook": "The_Tortoise_and_the_Hare.mp3",
+        "pdf": "pdfs/The_Tortoise_and_the_Hare.pdf"
+    },
+    {
+        "title": "The Boy Who Cried Wolf",
+        "image": "imags/The_Boy_Who_Cried_Wolf.jpg",
+        "description": "The Boy Who Cried Wolf",
+        "audiobook": "The_Boy_Who_Cried_Wolf.mp3",
+        "pdf": "pdfs/The_Boy_Who_Cried_Wolf.pdf"
+    },
+    {
+        "title": "The Ugly Duckling",
+        "image": "imags/The_Ugly_Duckling.jpg",
+        "description": "The Ugly Duckling",
+        "audiobook": "The_Ugly_Duckling.mp3",
+        "pdf": "pdfs/The_Ugly_Duckling.pdf"
+    },
+    {
+        "title": "The Little Mermaid",
+        "image": "imags/The_Little_Mermaid.jpg",
+        "description": "The Little Mermaid",
+        "audiobook": "The_Little_Mermaid.mp3",
+        "pdf": "pdfs/The_Little_Mermaid.pdf"
+    },
+    {
+        "title": "Puss in Boots",
+        "image": "imags/Puss_in_Boots.jpg",
+        "description": "Puss in Boots",
+        "audiobook": "Puss_in_Boots.mp3",
+        "pdf": "pdfs/Puss_in_Boots.pdf"
+    },
+    {
+        "title": "Cinderella",
+        "image": "imags/Cinderella.jpg",
+        "description": "Cinderella",
+        "audiobook": "Cinderella.mp3",
+        "pdf": "pdfs/Cinderella.pdf"
+    },
+    {
+        "title": "Sleeping Beauty",
+        "image": "imags/Sleeping_Beauty.jpg",
+        "description": "Sleeping Beauty",
+        "audiobook": "Sleeping_Beauty.mp3",
+        "pdf": "pdfs/Sleeping_Beauty.pdf"
+    },
+    {
+        "title": "Snow White",
+        "image": "imags/Snow_White.jpg",
+        "description": "Snow White",
+        "audiobook": "Snow_White.mp3",
+        "pdf": "pdfs/Snow_White.pdf"
+    },
+    {
+        "title": "Pinocchio",
+        "image": "imags/Pinocchio.jpg",
+        "description": "Pinocchio",
+        "audiobook": "Pinocchio.mp3",
+        "pdf": "pdfs/Pinocchio.pdf"
     }
+
 ]
