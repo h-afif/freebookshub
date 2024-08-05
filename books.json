@@ -2322,5 +2322,194 @@
         "description": "Pinocchio",
         "audiobook": "Pinocchio.mp3",
         "pdf": "pdfs/Pinocchio.pdf"
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "image": "imags/Harry_Potter_and_the_Sorcerer's_Stone.jpg",
+        "description": "Harry Potter and the Sorcerer's Stone",
+        "audiobook": "Harry_Potter_and_the_Sorcerer's_Stone.mp3",
+        "pdf": "pdfs/Harry_Potter_and_the_Sorcerer's_Stone.pdf"
+    },
+    {
+        "title": "Diary of a Wimpy Kid",
+        "image": "imags/Diary_of_a_Wimpy_Kid.jpg",
+        "description": "Diary of a Wimpy Kid",
+        "audiobook": "Diary_of_a_Wimpy_Kid.mp3",
+        "pdf": "pdfs/Diary_of_a_Wimpy_Kid.pdf"
+    },
+    {
+        "title": "Wonder",
+        "image": "imags/Wonder.jpg",
+        "description": "Wonder",
+        "audiobook": "Wonder.mp3",
+        "pdf": "pdfs/Wonder.pdf"
+    },
+    {
+        "title": "The Chronicles of Narnia",
+        "image": "imags/The_Chronicles_of_Narnia.jpg",
+        "description": "The Chronicles of Narnia",
+        "audiobook": "The_Chronicles_of_Narnia.mp3",
+        "pdf": "pdfs/The_Chronicles_of_Narnia.pdf"
+    },
+    {
+        "title": "Percy Jackson and the Olympians",
+        "image": "imags/Percy_Jackson_and_the_Olympians.jpg",
+        "description": "Percy Jackson and the Olympians",
+        "audiobook": "Percy_Jackson_and_the_Olympians.mp3",
+        "pdf": "pdfs/Percy_Jackson_and_the_Olympians.pdf"
+    },
+    {
+        "title": "The Hunger Games",
+        "image": "imags/The_Hunger_Games.jpg",
+        "description": "The Hunger Games",
+        "audiobook": "The_Hunger_Games.mp3",
+        "pdf": "pdfs/The_Hunger_Games.pdf"
+    },
+    {
+        "title": "A Series of Unfortunate Events",
+        "image": "imags/A_Series_of_Unfortunate_Events.jpg",
+        "description": "A Series of Unfortunate Events",
+        "audiobook": "A_Series_of_Unfortunate_Events.mp3",
+        "pdf": "pdfs/A_Series_of_Unfortunate_Events.pdf"
+    },
+    {
+        "title": "The Hobbit",
+        "image": "imags/The_Hobbit.jpg",
+        "description": "The Hobbit",
+        "audiobook": "The_Hobbit.mp3",
+        "pdf": "pdfs/The_Hobbit.pdf"
+    },
+    {
+        "title": "Matilda",
+        "image": "imags/Matilda.jpg",
+        "description": "Matilda",
+        "audiobook": "Matilda.mp3",
+        "pdf": "pdfs/Matilda.pdf"
+    },
+    {
+        "title": "The BFG",
+        "image": "imags/The_BFG.jpg",
+        "description": "The BFG",
+        "audiobook": "The_BFG.mp3",
+        "pdf": "pdfs/The_BFG.pdf"
+    },
+    {
+        "title": "Holes",
+        "image": "imags/Holes.jpg",
+        "description": "Holes",
+        "audiobook": "Holes.mp3",
+        "pdf": "pdfs/Holes.pdf"
+    },
+    {
+        "title": "Roll of Thunder Hear My Cry",
+        "image": "imags/Roll_of_Thunder_Hear_My_Cry.jpg",
+        "description": "Roll of Thunder Hear My Cry",
+        "audiobook": "Roll_of_Thunder_Hear_My_Cry.mp3",
+        "pdf": "pdfs/Roll_of_Thunder_Hear_My_Cry.pdf"
+    },
+    {
+        "title": "Maniac Magee",
+        "image": "imags/Maniac_Magee.jpg",
+        "description": "Maniac Magee",
+        "audiobook": "Maniac_Magee.mp3",
+        "pdf": "pdfs/Maniac_Magee.pdf"
+    },
+    {
+        "title": "Bridge to Terabithia",
+        "image": "imags/Bridge_to_Terabithia.jpg",
+        "description": "Bridge to Terabithia",
+        "audiobook": "Bridge_to_Terabithia.mp3",
+        "pdf": "pdfs/Bridge_to_Terabithia.pdf"
+    },
+    {
+        "title": "The Giver",
+        "image": "imags/The_Giver.jpg",
+        "description": "The Giver",
+        "audiobook": "The_Giver.mp3",
+        "pdf": "pdfs/The_Giver.pdf"
+    },
+    {
+        "title": "Walk Two Moons",
+        "image": "imags/Walk_Two_Moons.jpg",
+        "description": "Walk Two Moons",
+        "audiobook": "Walk_Two_Moons.mp3",
+        "pdf": "pdfs/Walk_Two_Moons.pdf"
+    },
+    {
+        "title": "The Outsiders",
+        "image": "imags/The_Outsiders.jpg",
+        "description": "The Outsiders",
+        "audiobook": "The_Outsiders.mp3",
+        "pdf": "pdfs/The_Outsiders.pdf"
+    },
+    {
+        "title": "The Phantom Tollbooth",
+        "image": "imags/The_Phantom_Tollbooth.jpg",
+        "description": "The Phantom Tollbooth",
+        "audiobook": "The_Phantom_Tollbooth.mp3",
+        "pdf": "pdfs/The_Phantom_Tollbooth.pdf"
+    },
+    {
+        "title": "From the Mixed Up Files of Mrs Basil E Frankweiler",
+        "image": "imags/From_the_Mixed_Up_Files_of_Mrs_Basil_E_Frankweiler.jpg",
+        "description": "From the Mixed Up Files of Mrs Basil E Frankweiler",
+        "audiobook": "From_the_Mixed_Up_Files_of_Mrs_Basil_E_Frankweiler.mp3",
+        "pdf": "pdfs/From_the_Mixed_Up_Files_of_Mrs_Basil_E_Frankweiler.pdf"
+    },
+    {
+        "title": "The Secret Garden",
+        "image": "imags/The_Secret_Garden.jpg",
+        "description": "The Secret Garden",
+        "audiobook": "The_Secret_Garden.mp3",
+        "pdf": "pdfs/The_Secret_Garden.pdf"
+    },
+    {
+        "title": "Little Women",
+        "image": "imags/Little_Women.jpg",
+        "description": "Little Women",
+        "audiobook": "Little_Women.mp3",
+        "pdf": "pdfs/Little_Women.pdf"
+    },
+    {
+        "title": "Anne of Green Gables",
+        "image": "imags/Anne_of_Green_Gables.jpg",
+        "description": "Anne of Green Gables",
+        "audiobook": "Anne_of_Green_Gables.mp3",
+        "pdf": "pdfs/Anne_of_Green_Gables.pdf"
+    },
+    {
+        "title": "The Adventures of Tom Sawyer",
+        "image": "imags/The_Adventures_of_Tom_Sawyer.jpg",
+        "description": "The Adventures of Tom Sawyer",
+        "audiobook": "The_Adventures_of_Tom_Sawyer.mp3",
+        "pdf": "pdfs/The_Adventures_of_Tom_Sawyer.pdf"
+    },
+    {
+        "title": "Treasure Island",
+        "image": "imags/Treasure_Island.jpg",
+        "description": "Treasure Island",
+        "audiobook": "Treasure_Island.mp3",
+        "pdf": "pdfs/Treasure_Island.pdf"
+    },
+    {
+        "title": "The Call of the Wild",
+        "image": "imags/The_Call_of_the_Wild.jpg",
+        "description": "The Call of the Wild",
+        "audiobook": "The_Call_of_the_Wild.mp3",
+        "pdf": "pdfs/The_Call_of_the_Wild.pdf"
+    },
+    {
+        "title": "White Fang",
+        "image": "imags/White_Fang.jpg",
+        "description": "White Fang",
+        "audiobook": "White_Fang.mp3",
+        "pdf": "pdfs/White_Fang.pdf"
+    },
+    {
+        "title": "Black Beauty",
+        "image": "imags/Black_Beauty.jpg",
+        "description": "Black Beauty",
+        "audiobook": "Black_Beauty.mp3",
+        "pdf": "pdfs/Black_Beauty.pdf"
     }
 ]
